@@ -1,6 +1,6 @@
-# Github Web Pages
+#  Github Web Pages
 
-<img src="media/P6250548_DxO.jpg" width="800" height="400">
+<img src="media/P6250548_DxO.jpg" width="800" height="300">
 
 ## My Status : Currently retired
 
