@@ -2,7 +2,7 @@
 
 <img src="media/P6250548_DxO.jpg" width="800" height="300">
 
-## My Status : Currently retired
+## My Current Status : Retired
 
 ## Specialized in
 * Artificial Intelligence : Knowledge Engineering, user/learner Models, Ontology and Reasoning, Semantic Web and Linked Data, Context Sensitivity and Adaptation
@@ -10,7 +10,7 @@
 * Design of environments of learning and cultural mediation based on investigative approaches or connectivism, using social media in open environments of the MOOC type
   * In the fields of learning, lifelong learning and cultural heritage for formal and informal learning and the design of new computing environments to support researchers in History of Science and Technology - Digital Humanities.
 
-## Websites & Social Networks
+## Websites & "Social" Networks
 
 * <img src="media/linkedin.jpeg" width="35" height="35"> <a href="https://www.linkedin.com/in/sergegarlatti/" target="_blank" > My LinkedIn page </a>
 * <img src="media/IMTatlantique.jpeg" width="50" height="40"> <a href="https://www.imt-atlantique.fr/fr/personne/serge-garlatti" target="_blank" > Page personnelle IMT Atlantique </a>
