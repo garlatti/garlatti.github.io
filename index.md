@@ -1,6 +1,6 @@
 # Premiere page Web dans Gitub
 
-## actually retired
+## Currently retired
 ## Social network links
 
 ### Linkedin   <a href="https://www.linkedin.com/in/sergegarlatti/" target="_blank" rel="noopener noreferrer"> My LinkedIn page </a>
