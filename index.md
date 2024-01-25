@@ -1,5 +1,7 @@
 # Github Web Pages
 
+<img src="media/bretagne.jpeg" width="800" height="400">
+
 ## Status : Currently retired
 
 ## Specialized in
@@ -28,7 +30,7 @@
 * **04/2020 - :** Full Professor, Computer Science Department
 * **2015- 03/2020 :** Head of Computer Science Department
 * **2006- :** Full Professor, Computer Science Department
-* **2001-2006 :** Professor, Artificial Intelligence and Cognitive Science Department
+* **2001-2006 :** Associated Professor, Artificial Intelligence and Cognitive Science Department
 * **1986-2001 :** Assistant Professor, Artificial Intelligence and Cognitive Science Department.
 * **1983 :** Reader, Computer Science and Network Department
 * **1980 :** Engineer in a private company, Thomson CSF, CEBM.
