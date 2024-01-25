@@ -6,7 +6,7 @@
 
 ## Specialized in
 * Artificial Intelligence : Knowledge Engineering, user/learner Models, Ontology and Reasoning, Semantic Web and Linked Data, Context Sensitivity and Adaptation
-* Languages : Lisp, Prolog, Rules, ADA, Pascal, Scheme, PHP, Python
+* Languages : Lisp, Prolog, Rules, ADA, Pascal, Scheme, PHP, Python, R
 * Design of environments of learning and cultural mediation based on investigative approaches or connectivism, using social media in open environments of the MOOC type
   * In the fields of learning, lifelong learning and cultural heritage for formal and informal learning and the design of new computing environments to support researchers in History of Science and Technology - Digital Humanities.
 
