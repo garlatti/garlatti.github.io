@@ -9,7 +9,7 @@
 
 ## Websites & Social Networks
 
-* ![](src="media/linkedin.jpeg") <a href="https://www.linkedin.com/in/sergegarlatti/" target="_blank" > My LinkedIn page </a>
+* <img src="media/linkedin.jpeg" width="25" height="25"> <a href="https://www.linkedin.com/in/sergegarlatti/" target="_blank" > My LinkedIn page </a>
 * <a href="https://www.imt-atlantique.fr/fr/personne/serge-garlatti" target="_blank" > Page personnelle IMT Atlantique </a>
 * <a href="https://cv.archives-ouvertes.fr/serge-garlatti" target="_blank" > CV HAL </a>
 * <a href="https://www.researchgate.net/profile/Serge-Garlatti" target="_blank" > Profil Researchgate </a>
