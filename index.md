@@ -2,7 +2,7 @@
 
 <img src="media/bretagne.jpeg" width="800" height="400">
 
-## Status : Currently retired
+## My Status : Currently retired
 
 ## Specialized in
 * Artificial Intelligence : Knowledge Engineering, user/learner Models, Ontology and Reasoning, Semantic Web and Linked Data, Context Sensitivity and Adaptation
