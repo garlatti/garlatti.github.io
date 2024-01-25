@@ -9,7 +9,7 @@
 
 ## Websites & Social Networks
 
-* <a href="https://www.linkedin.com/in/sergegarlatti/" target="_blank" > My LinkedIn page </a>
+* ![](src="/media/linkedin.jpeg") <a href="https://www.linkedin.com/in/sergegarlatti/" target="_blank" > My LinkedIn page </a>
 * <a href="https://www.imt-atlantique.fr/fr/personne/serge-garlatti" target="_blank" > Page personnelle IMT Atlantique </a>
 * <a href="https://cv.archives-ouvertes.fr/serge-garlatti" target="_blank" > CV HAL </a>
 * <a href="https://www.researchgate.net/profile/Serge-Garlatti" target="_blank" > Profil Researchgate </a>
@@ -17,18 +17,18 @@
 
 ## EDUCATION
 
-* 2006 : HDR  in Computer Science, University of  Bretagne Sud
-* 1990 : PHD in Computer Science, University of Rennes 2.
-* 1980 : DEA in Computer Science, University of Rennes 2.
-* 1978 : Postgraduate diploma in Electronic and Mechanics (Engineering school), l'Ecole Nationale d'Ingénieurs de Brest.
+* **2006** : HDR  in Computer Science, University of  Bretagne Sud
+* **1990** : PHD in Computer Science, University of Rennes 2.
+* **1980** : DEA in Computer Science, University of Rennes 2.
+* **1978** : Postgraduate diploma in Electronic and Mechanics (Engineering school), l'Ecole Nationale d'Ingénieurs de Brest.
 
 ## PROFESSIONAL EXPERIENCE
 
-*  01/2021 - 12/22023 Emeritus Professor, Computer Science Department
-*  04/2020 - : Full Professor, Computer Science Department
-* 2015- 03/2020 : Head of Computer Science Department
-* 2006- : Full Professor, Computer Science Department
-* 2001-2006 : Professor, Artificial Intelligence and Cognitive Science Department
-* 1986-2001 : Assistant Professor, Artificial Intelligence and Cognitive Science Department.
-* 1983 : Reader, Computer Science and Network Department
-* 1980 : Engineer in a private company, Thomson CSF, CEBM.
+* **01/2021-12/2023 :** Emeritus Professor, Computer Science Department
+* **04/2020 - :** Full Professor, Computer Science Department
+* **2015- 03/2020 :** Head of Computer Science Department
+* **2006- :** Full Professor, Computer Science Department
+* **2001-2006 :** Professor, Artificial Intelligence and Cognitive Science Department
+* **1986-2001 :** Assistant Professor, Artificial Intelligence and Cognitive Science Department.
+* **1983 :** Reader, Computer Science and Network Department
+* **1980 :** Engineer in a private company, Thomson CSF, CEBM.
