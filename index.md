@@ -1,4 +1,4 @@
-# Gitub Web Pages
+# Github Web Pages
 
 ## Status : Currently retired
 
