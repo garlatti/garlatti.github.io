@@ -5,11 +5,22 @@
 | <img src="media/P6250548_DxO.jpg" width="800" height="300"> |
 
 
-## Name : Garlatti Serge
+### Name : Garlatti Serge
 
-## Current Status : Retired
+### Current Status : Retired
+
+# Current life
+* DIY
+* Woodworking
+  * Joinery : lap joints, box joints, house joints, dovetails, mortise an tenon, dovetails and half-blinded dovetails
+  * Machine : planer & thicknesser, drill press, table saw, router, drills, handled power saw, jigsaw, sanders,  
+  * Hand tools : saws and japanese saws, planers, chisels, measuring and marking tools
+* Design and manufacturing of furniture, cupboard, shelves, office desks, dressers, drawers, etc.
+
+# Working Life
 
 ## Research and Teaching
+
 * Artificial Intelligence : 
     * Knowledge Engineering, Ontology Design and Reasoning
     * Semantic Web and Linked Data, Context Sensitivity and Adaptation
@@ -25,7 +36,7 @@
      * Logics
        * Classical Logics: Predicate Logic, Automated Theorem Proving 
        * Non Standard Logics: Modal Logics, Non Monotonic Logics, Temporal Logics, etc.,
-       * 
+       
   *  In Programming : Pascal, ADA, Scheme, PHP, Python, R, etc.
   
   *  In Databases and Open Linked Data : SQL, SPARQL & Federated Sparql Queries
@@ -40,7 +51,7 @@
 
 ## EDUCATION
 
-* **2006** : HDR  in Computer Science, University of  Bretagne Sud
+* **2006** : HDR  in Computer Science, University of Bretagne Sud
 * **1990** : PHD in Computer Science, University of Rennes 2.
 * **1980** : DEA in Computer Science, University of Rennes 2.
 * **1978** : Postgraduate diploma in Electronic and Mechanics (Engineering school), l'Ecole Nationale d'Ingénieurs de Brest.
