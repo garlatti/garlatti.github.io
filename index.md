@@ -59,7 +59,7 @@
 ## PROFESSIONAL EXPERIENCE
 
 * **01/2021-12/2023 :** Emeritus Professor, Computer Science Department
-* **04/2020 - :** Full Professor, Computer Science Department
+* **04/2020 - 12/2020 :** Full Professor, Computer Science Department
 * **2015- 03/2020 :** Head of Computer Science Department
 * **2006- :** Full Professor, Computer Science Department
 * **2001-2006 :** Associated Professor, Artificial Intelligence and Cognitive Science Department
