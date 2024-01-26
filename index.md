@@ -43,10 +43,10 @@
   
 ## Websites & "Social" Networks
 
-* <img src="media/linkedin.jpeg" width="35" height="35"> <a href="https://www.linkedin.com/in/sergegarlatti/" target="_blank" > My LinkedIn page </a>
-* <img src="media/IMTatlantique.jpeg" width="50" height="40"> <a href="https://www.imt-atlantique.fr/fr/personne/serge-garlatti" target="_blank" > IMT Atlantique web pages </a>
-* <img src="media/HAL.jpeg" width="40" height="40"> <a href="https://cv.archives-ouvertes.fr/serge-garlatti" target="_blank" > CV HAL </a>
-* <img src="media/RG.jpeg" width="25" height="25"> <a href="https://www.researchgate.net/profile/Serge-Garlatti" target="_blank" > Profil Researchgate </a>
+* <img src="media/linkedin.jpeg" width="35" height="35"> <a href="https://www.linkedin.com/in/sergegarlatti/" target="_blank" > My LinkedIn Page </a>
+* <img src="media/IMTatlantique.jpeg" width="50" height="40"> <a href="https://www.imt-atlantique.fr/fr/personne/serge-garlatti" target="_blank" > IMT Atlantique Web Pages </a>
+* <img src="media/HAL.jpeg" width="40" height="40"> <a href="https://cv.archives-ouvertes.fr/serge-garlatti" target="_blank" > HAL CV </a>
+* <img src="media/RG.jpeg" width="25" height="25"> <a href="https://www.researchgate.net/profile/Serge-Garlatti" target="_blank" > Researchgate Profil </a>
 * <img src="media/GS.jpeg" width="30" height="30"> <a href="https://scholar.google.fr/citations?view_op=list_works&hl=fr&user=yCdOUkUAAAAJ&gmla=AJsN-F4mAq6P6-KVZwH0xdTrWGOMPNylF17kmPamTpVtKMETOQYq3NsLYgnrtCyD9yfGnEsf-mLDGHS21FCEmocw8j3Po4YIT2-aBtx3d090iG4hJvnSRX7FSmTglHkyRBrAWAYMy6kQcCSEVlVCTKpAuL_AG94i5F2mYOT-s6Wfe_zmeg5oOFU" target="_blank" > Google Scholar </a>
 * <img src="media/slideshare.jpeg" width="30" height="30"> <a href="https://fr.slideshare.net/garlatti" target="_blank" > SlideShare </a>
 
