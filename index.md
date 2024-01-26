@@ -12,10 +12,12 @@
 # Current life
 * DIY
 * Woodworking
-  * Joinery : lap joints, box joints, house joints, castle joints, dovetails, mortise and tenon, dovetails and half-blinded dovetails
-  * Machine : planer & thicknesser, drill press, table saw, router, drills, handled power saw, jigsaw, sanders,  etc. 
-  * Hand tools : saws and japanese saws, planers, chisels,
-  * Measuring and marking tools : rulers, retractable tape measure, dividers, vernier caliper and digital caliper, japanese marking knife, squares, combination squares, marking gauges, wooden mallet, clamps, F-clamps, hand clamps,  
+  * Joinery: lap joints, box joints, house joints, castle joints, dovetails, mortise and tenon, dovetails and half-blinded dovetails
+  * Machine: planer & thicknesser, drill press, table saw, router, drills, handled power saw, jigsaw, sanders,  etc. 
+  * Hand tools:
+    * saws and japanese saws, planers, chisels,
+    * Measuring and marking tools: rulers, retractable tape measure, dividers, vernier caliper and digital caliper, japanese marking knife, squares, combination squares, marking gauges
+    * Clamps: C-Clamps, F-clamps, Hand clamps,  
 * Design and manufacturing of furniture, cupboard, shelves, office desks, dressers, drawers, etc.
 
 # Working Life
@@ -53,18 +55,18 @@
 
 ## EDUCATION
 
-* **2006** : HDR  in Computer Science, University of Bretagne Sud
-* **1990** : PHD in Computer Science, University of Rennes 2.
-* **1980** : DEA in Computer Science, University of Rennes 2.
-* **1978** : Postgraduate diploma in Electronic and Mechanics (Engineering school), l'Ecole Nationale d'Ingénieurs de Brest.
+* **2006**: HDR  in Computer Science, University of Bretagne Sud
+* **1990**: PHD in Computer Science, University of Rennes 2.
+* **1980**: DEA in Computer Science, University of Rennes 2.
+* **1978**: Postgraduate diploma in Electronic and Mechanics (Engineering school), l'Ecole Nationale d'Ingénieurs de Brest.
 
 ## PROFESSIONAL EXPERIENCE
 
-* **01/2021-12/2023 :** Emeritus Professor, Computer Science Department
-* **04/2020-12/2020 :** Full Professor, Computer Science Department
-* **2015-03/2020 :** Head of Computer Science Department
-* **2006-02/2020 :** Full Professor, Computer Science Department
-* **2001-2006 :** Associated Professor, Artificial Intelligence and Cognitive Science Department
-* **1986-2001 :** Assistant Professor, Artificial Intelligence and Cognitive Science Department.
-* **1983-1986 :** Reader, Computer Science and Network Department
-* **1980-1983 :** Engineer in a private company, Thomson CSF, CEBM.
+* **01/2021-12/2023:** Emeritus Professor, Computer Science Department
+* **04/2020-12/2020:** Full Professor, Computer Science Department
+* **2015-03/2020:** Head of Computer Science Department
+* **2006-02/2020:** Full Professor, Computer Science Department
+* **2001-2006:** Associated Professor, Artificial Intelligence and Cognitive Science Department
+* **1986-2001:** Assistant Professor, Artificial Intelligence and Cognitive Science Department.
+* **1983-1986:** Reader, Computer Science and Network Department
+* **1980-1983:** Engineer in a private company, Thomson CSF, CEBM.
