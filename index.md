@@ -1,8 +1,8 @@
 #  Github Curriculum Vitae
 
-| **La Pointe du RAZ**                                        |
+| **La Pointe de Brézellec**                                        |
 |-------------------------------------------------------------|
-| <img src="media/P6250548_DxO.jpg" width="800" height="300"> |
+| <img src="media/P5170270_DxO.jpg" width="800" height="300"> |
 
 
 ### Name : Garlatti Serge
@@ -26,7 +26,7 @@
     * Semantic Web and Linked Data, Context Sensitivity and Adaptation
     * Internet of things : Semantic Sensor Network, Activity, Smart Sensor, Data Sheet and Indicators Ontologies
     * User/learner, scenario, Context and Adaptation Models
-    * 
+     
 * Design of environments of learning and cultural mediation based on investigative approaches or connectivism, using social media in open environments of the MOOC type
   * In the fields of learning, lifelong learning and cultural heritage for formal and informal learning and the design of new computing environments to support researchers in History of Science and Technology - Digital Humanities.
   
@@ -59,10 +59,10 @@
 ## PROFESSIONAL EXPERIENCE
 
 * **01/2021-12/2023 :** Emeritus Professor, Computer Science Department
-* **04/2020 - :** Full Professor, Computer Science Department
-* **2015- 03/2020 :** Head of Computer Science Department
-* **2006- :** Full Professor, Computer Science Department
+* **04/2020-12/2020 :** Full Professor, Computer Science Department
+* **2015-03/2020 :** Head of Computer Science Department
+* **2006-02/2020 :** Full Professor, Computer Science Department
 * **2001-2006 :** Associated Professor, Artificial Intelligence and Cognitive Science Department
 * **1986-2001 :** Assistant Professor, Artificial Intelligence and Cognitive Science Department.
-* **1983 :** Reader, Computer Science and Network Department
-* **1980 :** Engineer in a private company, Thomson CSF, CEBM.
+* **1983-1986 :** Reader, Computer Science and Network Department
+* **1980-1983 :** Engineer in a private company, Thomson CSF, CEBM.
