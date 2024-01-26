@@ -14,7 +14,8 @@
 * Woodworking
   * Joinery : lap joints, box joints, house joints, castle joints, dovetails, mortise and tenon, dovetails and half-blinded dovetails
   * Machine : planer & thicknesser, drill press, table saw, router, drills, handled power saw, jigsaw, sanders,  etc. 
-  * Hand tools : saws and japanese saws, planers, chisels, measuring and marking tools
+  * Hand tools : saws and japanese saws, planers, chisels,
+  * Measuring and marking tools : rulers, retractable tape measure, dividers, vernier caliper and digital caliper, japanese marking knife, squares, combination squares, marking gauges, wooden mallet, clamps, F-clamps, hand clamps,  
 * Design and manufacturing of furniture, cupboard, shelves, office desks, dressers, drawers, etc.
 
 # Working Life
