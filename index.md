@@ -2,7 +2,7 @@
 
 | **La Pointe du RAZ**                                        |
 |-------------------------------------------------------------|
-| <img src="media/P6250548_DxO.jpg" width="800" height="300"> |
+| <img src="media/P5170270_DxO.jpg" width="800" height="300"> |
 
 
 ### Name : Garlatti Serge
