@@ -1,6 +1,6 @@
 #  Github Curriculum Vitae
 
-| **La Pointe du RAZ**                                        |
+| **La Pointe de Brézellec**                                        |
 |-------------------------------------------------------------|
 | <img src="media/P5170270_DxO.jpg" width="800" height="300"> |
 
