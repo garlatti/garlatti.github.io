@@ -26,7 +26,7 @@
     * Semantic Web and Linked Data, Context Sensitivity and Adaptation
     * Internet of things : Semantic Sensor Network, Activity, Smart Sensor, Data Sheet and Indicators Ontologies
     * User/learner, scenario, Context and Adaptation Models
-    * 
+     
 * Design of environments of learning and cultural mediation based on investigative approaches or connectivism, using social media in open environments of the MOOC type
   * In the fields of learning, lifelong learning and cultural heritage for formal and informal learning and the design of new computing environments to support researchers in History of Science and Technology - Digital Humanities.
   
