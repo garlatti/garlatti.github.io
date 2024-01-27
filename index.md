@@ -1,7 +1,3 @@
----
-title: Homepage
-menus: header
----
 
 #  My  Web pages
 
