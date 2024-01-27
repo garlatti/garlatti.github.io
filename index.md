@@ -7,7 +7,10 @@
 
 # Introduction
 
-# Content
+Website written in Markdown with jekyll to learn that type of approach
+
+# WebSite Content
+
 My  [CV](cv.md)
 
 
