@@ -8,5 +8,4 @@ has_children: true
 ---
 
 # WoodWorking Tools
-planer & thicknesser, drill press, table saw, router, drills, handled power saw, jigsaw, sanders, etc.
-, drill press, table saw, router, drills, handled power saw, jigsaw, sanders, etc.
+The tools are as follows : planer & thicknesser, drill press, table saw, router, drills, handled power saw, jigsaw, sanders, etc.
