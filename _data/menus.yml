@@ -1,5 +1,8 @@
 
 ---
-title: Homepage
-menus: header
+# title: Homepage
+# menus: header
+layout: default
+title: Customization
+nav_order: 4
 ---
