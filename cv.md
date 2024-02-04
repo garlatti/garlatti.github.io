@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Github Curriculum Vitae
-parent: My Web pages
+parent: My Web Pages
 nav_order: 2
 ---
 
