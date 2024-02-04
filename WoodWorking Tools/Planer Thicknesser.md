@@ -5,8 +5,15 @@ parent: WoodWorking Tools
 grand_parent: My Web Pages
 nav_order: 1
 ---
-My third planer thicknesser. The two others are broken - the engine. 
 
+The first planer thicknesser. I had two Scheppach machines and they were broken - engines out of order. 
+.
+
+| Scheppach HMS 1080 (center)                                                     |
+|---------------------------------------------------------------------------------|
+| <img alt="image" height="25%" src="/media/Scheppach_HMS_1080.jpg" width="25%"/> | 
+
+My third planer thicknesser.  
 
 | Metabo HC 260 (center)                                                       |
 |------------------------------------------------------------------------------|

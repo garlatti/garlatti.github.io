@@ -5,4 +5,10 @@ parent: WoodWorking Tools
 grand_parent: My Web Pages
 nav_order: 3
 ---
-Ma première scie sur table de chantier
+# My first table saw
+
+
+| Metabo TS 254 M (center)                                                     |
+|------------------------------------------------------------------------------|
+| <img alt="image" height="25%" src="/media/Metabo_TS_254_M.jpg" width="25%"/> | 
+
