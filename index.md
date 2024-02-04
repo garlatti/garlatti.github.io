@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Customization
+title: My Web Pages
 nav_order: 1
 has_children: true
 ---
