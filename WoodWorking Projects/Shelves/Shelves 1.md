@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Shelves 1
-parent: Shelves
-grand_parent: WoodWorking Projects
+parent: WoodWorking Projects
+grand_parent: My Web Pages
 nav_order: 1
 ---
 Mes premières étagères sans équerre
