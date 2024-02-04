@@ -8,12 +8,12 @@ nav_order: 2
 My first Drill press - an old one. 
 
 
-| First Drill Press (center)                                               |
-|--------------------------------------------------------------------------|
+|                            First Drill Press                             |
+|:------------------------------------------------------------------------:|
 | <img alt="image" height="25%" src="/media/Drill_Press.jpg" width="25%"/> | 
 
  My second drill Press
 
-| Bosch PBD 40                                                   |
-|-----------------------------------------------------------------------------|
-| <img alt="image" height="25%" src="/media/Bosch_PBD_40.jpg" width="25%"/>   |  <img alt="image" height="25%" src="/media/Bosch_PBD_40_1.jpg" width="25%"/> | 
+| Bosch PBD 40 (center)                                                     |
+|---------------------------------------------------------------------------|
+| <img alt="image" height="50%" src="/media/Bosch_PBD_40.jpg" width="50%"/> |  <img alt="image" height="50%" src="/media/Bosch_PBD_40_1.jpg" width="50%"/> | 
