@@ -13,7 +13,7 @@ plugins:
 # - jekyll-include-cache
 
 # Color scheme supports "light" (default) and "dark"
-color_scheme: dark
+# color_scheme: dark
 
 
 description: Markdown + Jekyll + "Just the Docs" jekyll theme + GitHub Pages
