@@ -2,7 +2,7 @@
 layout: default
 title: Dresser 1
 parent: WoodWorking Projects
-grand_parent: My Web Pages
+has_children: true
 nav_order: 1
 ---
 Ma première commode
