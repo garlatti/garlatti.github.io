@@ -9,7 +9,7 @@ has_children: true
 
 | **La Pointe de Brézellec**                                        |
 |-------------------------------------------------------------|
-| <img src="media/P5170270_DxO.jpg" width="800" height="300"> |
+| <img src="media/https://www.photo-paysage.com/albums/Bretagne/finistere/Pointe-du-van/normal_mer-bretagne-bruyere-pointe_du_van.jpg" width="800" height="300"> |
 
 
 # Introduction
