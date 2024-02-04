@@ -1,3 +1,10 @@
+---
+layout: default
+title: Github Curriculum Vitae
+parent: My Web pages
+nav_order: 2
+---
+
 #  Github Curriculum Vitae
 
 ### Name : Garlatti Serge
