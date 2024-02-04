@@ -12,10 +12,8 @@ plugins:
   - jekyll-menus
 # - jekyll-include-cache
 
-# ---
-# layout: default
-# title: Customization
-# nav_order: 4
-# ---
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
 
-description: Essais en Markdown + Jekyll !
+
+description: Markdown + Jekyll + "Just the Docs" jekyll theme + GitHub Pages
