@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dresser
+title: Office Desk
 parent: WoodWorking Projects
 grand_parent: My Web Pages
 nav_order: 3
