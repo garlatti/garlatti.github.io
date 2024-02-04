@@ -14,6 +14,9 @@ has_children: true
 
 # Introduction
 
-Website written in Markdown with Jekyll and powered by GitHub Pages to describe the new life of a very busy retired guy. 
+Website written in [Markdown](https://www.markdownguide.org/) with 
+[Jekyll](https://jekyllrb.com/) and powered by [GitHub Pages](https://pages.github.com/),
+to describe the new life of a very busy retired guy. The responsive Jekyll theme 
+used to design the website is called [Just the Docs](https://just-the-docs.com/). 
 
 
