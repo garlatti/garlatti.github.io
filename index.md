@@ -14,6 +14,6 @@ has_children: true
 
 # Introduction
 
-Website written in Markdown with Jekyll and powered by GitHub Pages to describe the new life of a very busy retired person. 
+Website written in Markdown with Jekyll and powered by GitHub Pages to describe the new life of a very busy retired guy. 
 
 
