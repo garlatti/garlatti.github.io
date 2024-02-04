@@ -10,5 +10,5 @@ nav_order: 3
 
 | Metabo TS 254 M (center)                                                     |
 |------------------------------------------------------------------------------|
-| <img alt="image" height="25%" src="/media/Metabo_TS_254_M.jpg" width="25%"/> | 
+| <img alt="image" height="35%" src="/media/Metabo_TS_254_M.jpg" width="35%"/> | 
 

@@ -11,4 +11,4 @@ My first woodworking machine : a Router Bosch POF 1400 ACE.
 
 | Bosch POF 1400 ACE (center)                                                     |
 |---------------------------------------------------------------------------------|
-| <img alt="image" height="25%" src="/media/Bosch_POF_1400_ACE.jpg" width="25%"/> | 
+| <img alt="image" height="50%" src="/media/Bosch_POF_1400_ACE.jpg" width="50%"/> | 
