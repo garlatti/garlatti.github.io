@@ -6,7 +6,7 @@ grand_parent: My Web Pages
 nav_order: 1
 ---
 
-The first planer thicknesser. I had two Scheppach machines and they were broken - motor burnt out due to Oak. 
+The first planer thicknesser. I had two Scheppach machines and they were broken - motor burnt out during oak working. 
 .
 
 |                            Scheppach HMS 1080                         |

@@ -7,9 +7,9 @@ has_children: true
 
 #  My  Web pages
 
-Côte Bretonne                                    |
-|-------------------------------------------------------------|
-| <img src="media/normal_mer-bretagne-bruyere-pointe_du_van.jpg" width="80%" height="80%"> |
+|                                       Brittany coast                                       |
+|:------------------------------------------------------------------------------------------:|
+|  <img src="media/normal_mer-bretagne-bruyere-pointe_du_van.jpg" width="80%" height="80%">  |
 
 
 # Introduction
