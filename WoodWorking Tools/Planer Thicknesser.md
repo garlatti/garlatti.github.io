@@ -16,6 +16,8 @@ My third planer thicknesser. The two others are broken - the engine.
 | -------------------------------------------------------------  |
 | <img src="media/Metabo_HC260_21.jpg" width="50%" height="50%"> | 
 
-![image](/media/Metabo_HC260.jpg)
+<img alt="image" height="50%" src="/media/Metabo_HC260.jpg" width="50%"/>
+<img alt="image" height="50%" src="/media/Metabo_HC260_1.jpg" width="50%"/>
+<img alt="image" height="50%" src="/media/Metabo_HC260_21.jpg" width="50%"/>
 ![image](/media/Metabo_HC260_1.jpg)
 ![image](/media/Metabo_HC260_21.jpg)
