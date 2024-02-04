@@ -12,10 +12,10 @@ plugins:
   - jekyll-menus
 # - jekyll-include-cache
 
----
-layout: default
-title: Customization
-nav_order: 4
----
+# ---
+# layout: default
+# title: Customization
+# nav_order: 4
+# ---
 
 description: Essais en Markdown + Jekyll !
