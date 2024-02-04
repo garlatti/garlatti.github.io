@@ -9,15 +9,11 @@ has_children: true
 
 Côte Bretonne                                    |
 |-------------------------------------------------------------|
-| <img src="media/normal_mer-bretagne-bruyere-pointe_du_van.jpg" width="800" height="300"> |
+| <img src="media/normal_mer-bretagne-bruyere-pointe_du_van.jpg" width="80%" height="80%"> |
 
 
 # Introduction
 
-Website written in Markdown with jekyll to learn that type of approach
-
-# WebSite Content
-
-My  [CV](cv.md)
+Website written in Markdown with Jekyll and powered by GitHub Pages to describe the new life of a very busy retired person. 
 
 
