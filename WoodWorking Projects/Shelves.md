@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Shelves 1
+title: Shelves
 parent: WoodWorking Projects
 nav_order: 2
 ---
