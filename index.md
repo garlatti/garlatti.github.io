@@ -7,9 +7,9 @@ has_children: true
 
 #  My  Web pages
 
-| **La Pointe de Brézellec**                                        |
+Côte Bretonne                                    |
 |-------------------------------------------------------------|
-| <img src="media/https://www.photo-paysage.com/albums/Bretagne/finistere/Pointe-du-van/normal_mer-bretagne-bruyere-pointe_du_van.jpg" width="800" height="300"> |
+| <img src="media/normal_mer-bretagne-bruyere-pointe_du_van.jpg" width="800" height="300"> |
 
 
 # Introduction
