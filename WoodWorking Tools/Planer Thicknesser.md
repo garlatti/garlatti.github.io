@@ -11,10 +11,10 @@ The first planer thicknesser. I had two Scheppach machines and they were broken 
 
 | Scheppach HMS 1080 (center)                                                     |
 |---------------------------------------------------------------------------------|
-| <img alt="image" height="25%" src="/media/Scheppach_HMS_1080.jpg" width="25%"/> | 
+| <img alt="image" height="35%" src="/media/Scheppach_HMS_1080.jpg" width="35%"/> | 
 
 My third planer thicknesser.  
 
-| Metabo HC 260                                                      |
-|------------------------------------------------------------------------------|
-| <img alt="image" height="25%" src="/media/Metabo_HC260.jpg" width="25%"/>    |  <img alt="image" height="25%" src="/media/Metabo_HC260_1.jpg" width="25%"/>  | 
+| Metabo HC 260                                                             |
+|---------------------------------------------------------------------------|
+| <img alt="image" height="45%" src="/media/Metabo_HC260.jpg" width="45%"/> |  <img alt="image" height="45%" src="/media/Metabo_HC260_1.jpg" width="45%"/>  | 

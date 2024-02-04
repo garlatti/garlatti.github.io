@@ -8,6 +8,6 @@ nav_order: 5
 A Bosch Jigsaw
 
 
-| Makita HS7601K (center)                                                         |
+| Bosch PST 9500 PEL (center)                                                     |
 |---------------------------------------------------------------------------------|
 | <img alt="image" height="25%" src="/media/Bosch_PSt_9500_PEL.jpg" width="50%"/> | 
