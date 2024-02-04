@@ -14,6 +14,6 @@ My first Drill press - an old one.
 
  My second drill Press
 
-| Bosch PBD 40 (center)                                                     |
+| Bosch PBD 40                                                              |
 |---------------------------------------------------------------------------|
-| <img alt="image" height="50%" src="/media/Bosch_PBD_40.jpg" width="50%"/> |  <img alt="image" height="50%" src="/media/Bosch_PBD_40_1.jpg" width="50%"/> | 
+| <img alt="image" height="60%" src="/media/Bosch_PBD_40.jpg" width="60%"/> |  <img alt="image" height="60%" src="/media/Bosch_PBD_40_1.jpg" width="60%"/> | 
