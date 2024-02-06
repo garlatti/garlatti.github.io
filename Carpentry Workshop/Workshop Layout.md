@@ -20,7 +20,7 @@ compatible 45-degree hook attached,
 
 |                                        French Cleat System  [Reference](https://www.thehandymansdaughter.com/)                                        |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------:|
-| <img alt="image" height="45%" src="https://www.thehandymansdaughter.com/wp-content/uploads/2020/08/french-cleat-hook-together.jpg.webp" width="45%"/> | 
+| <img alt="image" height="35%" src="https://www.thehandymansdaughter.com/wp-content/uploads/2020/08/french-cleat-hook-together.jpg.webp" width="35%"/> | 
 
  Some pictures of my french cleat system in my workshop. 
 
@@ -31,7 +31,7 @@ compatible 45-degree hook attached,
 
 Two workbenches are used: 
 
-<img alt="image" height="45%" src="/media/Organisation_Globale_3.jpg" width="45%"/>
+<img alt="image" height="45%" src="/media/Organisation_Globale_2.jpg" width="45%"/>
 
 * The first one is a Machine Table MASTER cut 2600. It is a  multifunctional machine table
   ** for use as a circular saw bench, jigsaw table, mitre saw table, work station, and optionally as a milling table 
