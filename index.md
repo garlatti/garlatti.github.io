@@ -9,7 +9,7 @@ has_children: true
 
 |                       website Logo                       |
 |:--------------------------------------------------------:|
-| <img src="media/lignarius.png" width="80%" height="80%"> |
+| <img src="media/Lignarius.png" width="80%" height="80%"> |
 
 
 # Introduction
