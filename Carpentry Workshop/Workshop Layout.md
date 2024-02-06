@@ -19,9 +19,9 @@ angle cut. These angled cuts allow you to hook on accessories that have a
 compatible 45-degree hook attached, 
 
 
-|                                        French Cleat System  [Reference](https://www.thehandymansdaughter.com/){:target="_blank"}                                        |
+|                               French Cleat System  [Reference](https://www.thehandymansdaughter.com/){:target="_blank"}                               |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------:|
-| <img alt="image" height="25%" src="https://www.thehandymansdaughter.com/wp-content/uploads/2020/08/french-cleat-hook-together.jpg.webp" width="25%"/> | 
+| <img alt="image" height="18%" src="https://www.thehandymansdaughter.com/wp-content/uploads/2020/08/french-cleat-hook-together.jpg.webp" width="18%"/> | 
 
  Some pictures of my french cleat system in my workshop. 
 
