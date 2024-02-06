@@ -12,6 +12,7 @@ on the workshop. It offers unlimited possibilities and storage space for tools
 and materials of all kinds that you can move as you want, 
 according to your different needs. Thus, it enables you to keep your workspace tidy and 
 well-organized. 
+
 It is a simple bracket made with interlocking 45 degree angles.
 In other words, it uses near-flat vertical lengths of timber with a 45-degree
 angle cut. These angled cuts allow you to hook on accessories that have a 
@@ -34,10 +35,12 @@ Two workbenches are used:
 <img alt="image" height="55%" src="/media/Organisation_Globale_2.jpg" width="55%"/>
 
 * The first one - on the left - is a Machine Table MASTER cut 2600 - Wolfcraft. It is a  multifunctional machine table
-  ** for use as a circular saw bench, jigsaw table, mitre saw table, work station, and optionally as a milling table 
+  
+    * for use as a circular saw bench, jigsaw table, mitre saw table, work station, and optionally as a milling table 
     and a station for guided circular saws
-  ** machine plate with safety lock, compatible with many commercially available tools
-  ** mobile use possible; can be folded for space-saving, free-standing storage
+  
+    * machine plate with safety lock, compatible with many commercially available tools
+    * mobile use possible; can be folded for space-saving, free-standing storage
 
 * The second one is a very simple DIY workbench based on two trestles. 
 The next step is to design and build a "true" modern workbench. 
