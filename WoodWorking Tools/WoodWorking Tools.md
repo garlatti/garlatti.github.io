@@ -2,7 +2,6 @@
 layout: default
 title: WoodWorking Tools
 nav_order: 3
-parent: My Web Pages
 has_children: true
 
 ---
