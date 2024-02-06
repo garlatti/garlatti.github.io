@@ -7,9 +7,9 @@ has_children: true
 
 #  My WebSite
 
-|                                       Brittany coast                                       |
-|:------------------------------------------------------------------------------------------:|
-|  <img src="media/normal_mer-bretagne-bruyere-pointe_du_van.jpg" width="80%" height="80%">  |
+|                       website Logo                       |
+|:--------------------------------------------------------:|
+| <img src="media/lignarius.png" width="80%" height="80%"> |
 
 
 # Introduction
