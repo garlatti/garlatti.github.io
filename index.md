@@ -1,11 +1,11 @@
 ---
 layout: default
-title: My Web Pages
+title: My Website
 nav_order: 1
 has_children: true
 ---
 
-#  My Web Site
+#  My WebSite
 
 |                                       Brittany coast                                       |
 |:------------------------------------------------------------------------------------------:|
