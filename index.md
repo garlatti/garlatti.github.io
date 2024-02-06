@@ -5,7 +5,7 @@ nav_order: 1
 has_children: true
 ---
 
-#  My  Web pages
+#  My Web Site
 
 |                                       Brittany coast                                       |
 |:------------------------------------------------------------------------------------------:|
