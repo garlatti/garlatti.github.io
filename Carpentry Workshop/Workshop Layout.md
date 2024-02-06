@@ -20,7 +20,7 @@ compatible 45-degree hook attached,
 
 |                                        French Cleat System  [Reference](https://www.thehandymansdaughter.com/)                                        |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------:|
-| <img alt="image" height="30%" src="https://www.thehandymansdaughter.com/wp-content/uploads/2020/08/french-cleat-hook-together.jpg.webp" width="30%"/> | 
+| <img alt="image" height="25%" src="https://www.thehandymansdaughter.com/wp-content/uploads/2020/08/french-cleat-hook-together.jpg.webp" width="25%"/> | 
 
  Some pictures of my french cleat system in my workshop. 
 
