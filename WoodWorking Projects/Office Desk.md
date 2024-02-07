@@ -9,7 +9,7 @@ nav_order: 3
 ## Wood: 
 * Oak
 # Tools: 
-* Table saw, router, sanders
+* Planer & Thicknesser, Table saw, Router, Orbital Sanders
 * Universal interlocking joint system CMT300 with an half-blind dovetail jig,  
 
 |                             Office Desk Parts                              |
