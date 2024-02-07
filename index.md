@@ -7,7 +7,9 @@ has_children: true
 
 #  My WebSite
 
- <img src="media/Lignarius.png" width="30%" height="30%" class="center">
+| Home page   |
+|:------------:|
+|<img src="media/Lignarius.png" width="25%" height="25%"/>|
 
 # Introduction
 
