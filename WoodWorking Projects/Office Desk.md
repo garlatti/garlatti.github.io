@@ -14,10 +14,8 @@ nav_order: 3
 
 |                             Office Desk Parts                              |
 |:--------------------------------------------------------------------------:|
-|  <img alt="image" height="25%" src="/media/Office Desk.jpg" width="25%"/>  | 
-| <img alt="image" height="25%" src="/media/Office Desk_2.jpg" width="25%"/> | 
-| <img alt="image" height="25%" src="/media/Office Desk_3.jpg" width="25%"/> |
-| <img alt="image" height="25%" src="/media/Office Desk_4.jpg" width="25%"/> |
+|  <img alt="image" height="25%" src="/media/Office Desk.jpg" width="25%"/>  <img alt="image" height="25%" src="/media/Office Desk_2.jpg" width="25%"/> | 
+| <img alt="image" height="25%" src="/media/Office Desk_3.jpg" width="25%"/> <img alt="image" height="25%" src="/media/Office Desk_4.jpg" width="25%"/> |
 
 |                                Office Desk                                 |
 |:--------------------------------------------------------------------------:|
