@@ -4,7 +4,8 @@ title: Drill Press
 parent: WoodWorking Tools
 nav_order: 2
 ---
-My first Drill press - an old one. 
+My first Drill press - an old one. This old drill press has too much play in the chuck. 
+Thus, it was very difficult to have precise hole center and size. 
 
 
 |                            First Drill Press                             |

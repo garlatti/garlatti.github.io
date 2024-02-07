@@ -21,10 +21,9 @@ Joints
 
 |                                                                 Dresser parts                                                                  |
 |:----------------------------------------------------------------------------------------------------------------------------------------------:|
-|  <img alt="image" height="25%" src="/media/Dresser.jpg" width="25%"/>  <img alt="image" height="25%" src="/media/Dresser_1.jpg" width="25%"/>  | 
-| <img alt="image" height="25%" src="/media/Dresser_2.jpg" width="25%"/>  <img alt="image" height="25%" src="/media/Dresser_3.jpg" width="25%"/> | 
-| <img alt="image" height="25%" src="/media/Dresser_4.jpg" width="25%"/>  <img alt="image" height="25%" src="/media/Dresser_5.jpg" width="25%"/> | 
+|  <img alt="image" height="25%" src="/media/Dresser.jpg" width="25%"/>  <img alt="image" height="25%" src="/media/Dresser_2.jpg" width="25%"/> | 
+|   <img alt="image" height="25%" src="/media/Dresser_3.jpg" width="25%"/> <img alt="image" height="25%" src="/media/Dresser_4.jpg" width="25%"/>  | 
 
 |                           Dresser in Bedroom                           |
 |:----------------------------------------------------------------------:|  
-| <img alt="image" height="35%" src="/media/Dresser_6.jpg" width="35%"/> | 
+| <img alt="image" height="35%" src="/media/Dresser_0.jpg" width="35%"/> | 
