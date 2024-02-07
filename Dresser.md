@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Shelves
+title: Dresser
 parent: WoodWorking Projects
-nav_order: 2
+nav_order: 1
 ---
 The dresser was my first important project with mortise & tenon.
 
@@ -27,3 +27,7 @@ Joints
 | <img alt="image" height="35%" src="/media/Dresser_3.jpg" width="35%"/> | 
 | <img alt="image" height="35%" src="/media/Dresser_4.jpg" width="35%"/> | 
 | <img alt="image" height="35%" src="/media/Dresser_5.jpg" width="35%"/> | 
+
+|                           Dresser in Bedroom                           |
+|:----------------------------------------------------------------------:|  
+| <img alt="image" height="35%" src="/media/Dresser_6.jpg" width="35%"/> | 

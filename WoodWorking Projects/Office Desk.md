@@ -6,11 +6,16 @@ nav_order: 3
 ---
 # An Office Desk
 
-## Wood: 
+Wood
 * Oak
-# Tools: 
+
+Tools
 * Planer & Thicknesser, Table saw, Router, Orbital Sanders
-* Universal interlocking joint system CMT300 with an half-blind dovetail jig,  
+* Universal interlocking joint system CMT300 with an half-blind dovetail jig,
+
+Joints
+* Mortises & Tenons for the desk legs
+* Half-blind dovetails for the drawer
 
 |                             Office Desk Parts                              |
 |:--------------------------------------------------------------------------:|

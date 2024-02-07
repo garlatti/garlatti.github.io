@@ -6,13 +6,16 @@ nav_order: 4
 ---
 # Four drawers for bedroom
 
-## Wood: 
+Wood
 * glued laminated beech
 
-# Tools: 
+Tools
 * Table saw, router, sanders
 * Universal interlocking joint system
 CMT300 with an half-blind dovetail jig,  
+
+Joint
+* half-blind dovetails
 
 |                                Drawers                                |
 |:---------------------------------------------------------------------:|
