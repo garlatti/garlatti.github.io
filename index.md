@@ -8,7 +8,6 @@ has_children: true
 #  My WebSite
 
  <img src="media/Lignarius.png" width="30%" height="30%" class="center">
-a logo
 
 # Introduction
 
