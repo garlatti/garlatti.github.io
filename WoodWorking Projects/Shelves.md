@@ -4,26 +4,21 @@ title: Shelves
 parent: WoodWorking Projects
 nav_order: 2
 ---
-The dresser was my first important project with mortise & tenon.
+The shelves were designed to store toilet paper and cleaning product. The shelves
+are hanging by means of a french cleat system. 
 
 Wood
-* glued laminated beech for the top and the drawer faces
-* Pine for the dresser structure
-* Plywood for the drawers, dresser sides and rear
+* Pine
 
 Tools
 * Table saw, router, sanders
 * Universal interlocking joint system CMT300 with an half-blind dovetail jig,  
 
 Joints
-* Mortise & Tenon for the dresser structure
-* Rabbets for drawers and dresser sides & rear
+* half-blind dovetails
+* Rabbets
+* French Cleat
 
-|                             Dresser parts                              |
-|:----------------------------------------------------------------------:|
-|  <img alt="image" height="35%" src="/media/Dresser.jpg" width="35%"/>  |
-| <img alt="image" height="35%" src="/media/Dresser_1.jpg" width="35%"/> | 
-| <img alt="image" height="35%" src="/media/Drsser_2.jpg" width="35%"/>  | 
-| <img alt="image" height="35%" src="/media/Dresser_3.jpg" width="35%"/> | 
-| <img alt="image" height="35%" src="/media/Dresser_4.jpg" width="35%"/> | 
-| <img alt="image" height="35%" src="/media/Dresser_5.jpg" width="35%"/> | 
+|                                                                   Shelves                                                                    |
+|:--------------------------------------------------------------------------------------------------------------------------------------------:|
+| <img alt="image" height="35%" src="/media/shelves.jpg" width="35%"/>  <img alt="image" height="35%" src="/media/shelves_1.jpg" width="35%"/> | 

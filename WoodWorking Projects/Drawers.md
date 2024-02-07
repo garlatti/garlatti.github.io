@@ -8,14 +8,16 @@ nav_order: 4
 
 Wood
 * glued laminated beech
+* Plywood for the drawer bottom
 
 Tools
 * Table saw, router, sanders
 * Universal interlocking joint system
 CMT300 with an half-blind dovetail jig,  
 
-Joint
+Joints
 * half-blind dovetails
+* Rabbets for the drawer bottom
 
 |                                Drawers                                |
 |:---------------------------------------------------------------------:|
