@@ -2,7 +2,7 @@
 layout: default
 title: Small Boxes
 parent: WoodWorking Projects
-nav_order: 7
+nav_order: 2
 ---
 # Small Boxes
 
@@ -18,8 +18,8 @@ Tools
 Joint
 * Box Joint
 
-|                                Small Boxes                                 |
-|:--------------------------------------------------------------------------:|
-|  <img alt="image" height="35%" src="/media/Small Boxes.jpg" width="35%"/>  |
-| <img alt="image" height="35%" src="/media/Small Boxes_1.jpg" width="35%"/> | 
-| <img alt="image" height="35%" src="/media/Small Boxes_2.jpg" width="35%"/> |
+|                               Small Boxes                                |
+|:------------------------------------------------------------------------:|
+|  <img alt="image" height="35%" src="/media/Small Box.jpg" width="35%"/>  |
+| <img alt="image" height="35%" src="/media/Small Box_1.jpg" width="35%"/> | 
+| <img alt="image" height="35%" src="/media/Small Box_2.jpg" width="35%"/> |

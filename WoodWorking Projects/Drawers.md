@@ -7,7 +7,7 @@ nav_order: 4
 # Four drawers for bedroom
 
 Wood
-* glued laminated beech
+* Glued laminated beech
 * Plywood for the drawer bottom
 
 Tools
@@ -16,7 +16,7 @@ Tools
 CMT300 with an half-blind dovetail jig,  
 
 Joints
-* half-blind dovetails
+* Half-blind dovetails
 * Rabbets for the drawer bottom
 
 |                                Drawers                                |

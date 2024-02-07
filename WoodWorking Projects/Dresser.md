@@ -2,7 +2,7 @@
 layout: default
 title: Dresser
 parent: WoodWorking Projects
-nav_order: 1
+nav_order: 3
 ---
 The dresser was my first important project with mortise & tenon.
 
@@ -19,12 +19,11 @@ Joints
 * Mortise & Tenon for the dresser structure
 * Rabbets for drawers and dresser sides & rear
 
-|                             Dresser parts                              |
-|:----------------------------------------------------------------------:|
-|  <img alt="image" height="25%" src="/media/Dresser.jpg" width="25%"/>  <img alt="image" height="25%" src="/media/Dresser_1.jpg" width="25%"/> | 
+|                                                                 Dresser parts                                                                  |
+|:----------------------------------------------------------------------------------------------------------------------------------------------:|
+|  <img alt="image" height="25%" src="/media/Dresser.jpg" width="25%"/>  <img alt="image" height="25%" src="/media/Dresser_1.jpg" width="25%"/>  | 
 | <img alt="image" height="25%" src="/media/Dresser_2.jpg" width="25%"/>  <img alt="image" height="25%" src="/media/Dresser_3.jpg" width="25%"/> | 
-| <img alt="image" height="35%" src="/media/Dresser_4.jpg" width="35%"/> | 
-| <img alt="image" height="35%" src="/media/Dresser_5.jpg" width="35%"/> | 
+| <img alt="image" height="25%" src="/media/Dresser_4.jpg" width="25%"/>  <img alt="image" height="25%" src="/media/Dresser_5.jpg" width="25%"/> | 
 
 |                           Dresser in Bedroom                           |
 |:----------------------------------------------------------------------:|  

@@ -2,7 +2,7 @@
 layout: default
 title: Shelves
 parent: WoodWorking Projects
-nav_order: 2
+nav_order: 6
 ---
 The shelves were designed to store toilet paper and cleaning product. The shelves
 are hanging by means of a french cleat system. 
@@ -21,4 +21,4 @@ Joints
 
 |                                                                   Shelves                                                                    |
 |:--------------------------------------------------------------------------------------------------------------------------------------------:|
-| <img alt="image" height="35%" src="/media/shelves.jpg" width="35%"/>  <img alt="image" height="35%" src="/media/shelves_1.jpg" width="35%"/> | 
+| <img alt="image" height="35%" src="/media/Shelves.jpg" width="35%"/>  <img alt="image" height="35%" src="/media/Shelves_1.jpg" width="35%"/> | 

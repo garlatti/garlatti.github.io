@@ -2,12 +2,13 @@
 layout: default
 title: Office Desk
 parent: WoodWorking Projects
-nav_order: 3
+nav_order: 7
 ---
 # An Office Desk
 
 Wood
 * Oak
+* Plywood for the drawer bottom
 
 Tools
 * Planer & Thicknesser, Table saw, Router, Orbital Sanders
@@ -16,6 +17,7 @@ Tools
 Joints
 * Mortises & Tenons for the desk legs
 * Half-blind dovetails for the drawer
+* Rabbets
 
 |                             Office Desk Parts                              |
 |:--------------------------------------------------------------------------:|

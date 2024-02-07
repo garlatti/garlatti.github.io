@@ -2,12 +2,12 @@
 layout: default
 title: NAS Rack
 parent: WoodWorking Projects
-nav_order: 6
+nav_order: 1
 ---
 # A rack for NAS and its external hard disks
 
 Wood
-* plywood
+* Plywood
 
 Tools
 * Table saw, router, sanders
@@ -17,4 +17,4 @@ Joint
 
 |                                                                   NAS Rack                                                                    |
 |:---------------------------------------------------------------------------------------------------------------------------------------------:|
-| <img alt="image" height="35%" src="/media/NAS Rack_1.jpg" width="35%"/> <img alt="image" height="35%" src="/media/NAS Rack.jpg" width="35%"/> | 
+| <img alt="image" height="25%" src="/media/NAS Rack_1.jpg" width="25%"/> <img alt="image" height="25%" src="/media/NAS Rack.jpg" width="25%"/> | 
