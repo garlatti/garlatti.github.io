@@ -7,4 +7,4 @@ has_children: true
 ---
 
 # WoodWorking Tools
-The tools are as follows : planer & thicknesser, drill press, table saw, router, drills, handled power saw, jigsaw, sanders, etc.
+The main power tools are as follows : planer & thicknesser, drill press, table saw, router, drills, handled power saw, jigsaw, sanders, etc.
