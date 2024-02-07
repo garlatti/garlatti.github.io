@@ -2,7 +2,7 @@
 layout: default
 title: Semi-Stationary Tools
 parent: Carpentry Workshop
-nav_order: 1
+nav_order: 2
 ---
 # Semi-Stationary Tools
 
