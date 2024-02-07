@@ -2,7 +2,7 @@
 layout: default
 title: Orbital Sander Holder
 parent: Tool Holders
-grand-parent: Carpentry Workshop
+grand_parent: Carpentry Workshop
 nav_order: 3
 
 ---

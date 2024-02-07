@@ -2,7 +2,7 @@
 layout: default
 title: Jigsaw Holder
 parent: Tool Holders
-grand-parent: Carpentry Workshop
+grand_parent: Carpentry Workshop
 nav_order: 2
 ---
 # Jigsaw Holder
