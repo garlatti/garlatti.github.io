@@ -19,5 +19,5 @@ nav_order: 3
 
 |                                Office Desk                                 |
 |:--------------------------------------------------------------------------:|
-| <img alt="image" height="45%" src="/media/Office Desk_5.jpg" width="45%"/> |
-| <img alt="image" height="45%" src="/media/Office Desk_6.jpg" width="45%"/> |
+| <img alt="image" height="35%" src="/media/Office Desk_5.jpg" width="35%"/> |
+| <img alt="image" height="35%" src="/media/Office Desk_6.jpg" width="35%"/> |
