@@ -8,17 +8,18 @@ nav_order: 3
 
 ## Wood: 
 * Oak
-
 # Tools: 
 * Table saw, router, sanders
 * Universal interlocking joint system CMT300 with an half-blind dovetail jig,  
 
-|                                  Drawers                                   |
+|                             Office Desk Parts                              |
 |:--------------------------------------------------------------------------:|
-|  <img alt="image" height="55%" src="/media/Office Desk.jpg" width="55%"/>  |
-| <img alt="image" height="55%" src="/media/Office Desk_1.jpg" width="55%"/> | 
-| <img alt="image" height="55%" src="/media/Office Desk_2.jpg" width="55%"/> | 
-| <img alt="image" height="55%" src="/media/Office Desk_3.jpg" width="55%"/> |
-| <img alt="image" height="55%" src="/media/Office Desk_4.jpg" width="55%"/> |
+|  <img alt="image" height="25%" src="/media/Office Desk.jpg" width="25%"/>  | 
+| <img alt="image" height="25%" src="/media/Office Desk_2.jpg" width="25%"/> | 
+| <img alt="image" height="25%" src="/media/Office Desk_3.jpg" width="25%"/> |
+| <img alt="image" height="25%" src="/media/Office Desk_4.jpg" width="25%"/> |
+
+|                                Office Desk                                 |
+|:--------------------------------------------------------------------------:|
 | <img alt="image" height="55%" src="/media/Office Desk_5.jpg" width="55%"/> |
 | <img alt="image" height="55%" src="/media/Office Desk_6.jpg" width="55%"/> |
