@@ -5,7 +5,7 @@ plugins:
 # - jekyll-include-cache
 
 
-title: The new handyman
+# title: The new handyman
 
 search_enabled: false
 
