@@ -12,7 +12,7 @@ Once you build a French Cleat tool wall, you need to start adding
 tool holders and tools. 
 
 
-|                                 Power Saw Holder                                 |
+|                                French Cleat Walls                                |
 |:--------------------------------------------------------------------------------:|
 | <img alt="image" height="35%" src="/media/French Cleat System.jpg" width="35%"/> |
 
@@ -20,18 +20,10 @@ tool holders and tools.
 
 Small Shelves can get by with minimal support. 
 
-|                               Small shelf supports                                |
-|:---------------------------------------------------------------------------------:|
-|  <img alt="image" height="35%" src="/media/Small Tool Holders.jpg" width="35%"/>  |
-| <img alt="image" height="35%" src="/media/Small Tool Holders_1.jpg" width="35%"/> |
+|                                                                        Small shelf supports                                                                        |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| <img alt="image" height="35%" src="/media/Small Tool Holders.jpg" width="35%"/>  <img alt="image" height="25%" src="/media/Small Tool Holders_1.jpg" width="25%"/> |
 
 Medium-size shelves depending on their design and the weight 
-of their contents, may need to span more than one cleat
-
-
-|                               Small shelf supports                                |
-|:---------------------------------------------------------------------------------:|
-|  <img alt="image" height="35%" src="/media/Small Tool Holders.jpg" width="35%"/>  |
-| <img alt="image" height="35%" src="/media/Small Tool Holders_1.jpg" width="35%"/> |
-
-Choose hooks, racks and shelf brackets and build components to suit them.
+of their contents, may need to span more than one cleat, 
+as you can see on the different following subsections
