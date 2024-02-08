@@ -9,6 +9,6 @@ nav_order: 4
 # Router Holder
 
 
-|                              Power Saw Holder                              |
+|                               Router Holder                                |
 |:--------------------------------------------------------------------------:|
 | <img alt="image" height="35%" src="/media/Router Holder.jpg" width="35%"/> | 
