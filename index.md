@@ -18,7 +18,5 @@ Website written in [Markdown](https://www.markdownguide.org/){:target="_blank"} 
 to describe the new life of a very busy retired guy. The responsive Jekyll theme 
 used to design the website is called [Just the Docs](https://just-the-docs.com/){:target="_blank"}. 
 
-hgskjhgHGKJ
-{: .fs-7 }
 
 
