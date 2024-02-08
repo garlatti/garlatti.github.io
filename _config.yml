@@ -7,7 +7,7 @@ plugins:
 
 title: The Handyman
 
-search_enabled: false
+search_enabled: true
 
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/media/lignarius.png"
