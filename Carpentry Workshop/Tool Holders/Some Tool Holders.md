@@ -6,20 +6,32 @@ nav_order: 3
 has_children: true
 ---
 
-# Tool Holders
+# Some Tool Holders
 
 Once you build a French Cleat tool wall, you need to start adding 
-tool holders and tools. Most tool holders take less than 20 minutes 
-to build. Have fun and don’t be afraid to toss your failures and 
-try again. Here are tips to help you build your wall and make 
-custom holders for your tools and gear.
+tool holders and tools. 
 
-Small shelf supports
+
+|                                 Power Saw Holder                                 |
+|:--------------------------------------------------------------------------------:|
+| <img alt="image" height="35%" src="/media/French Cleat System.jpg" width="35%"/> |
+
+
+
 Small Shelves can get by with minimal support. 
-They’ll only need vertical supports that cover one wall cleat.
 
-Medium-size shelves
-Medium-Size shelves, depending on their design and the weight 
+|                               Small shelf supports                                |
+|:---------------------------------------------------------------------------------:|
+|  <img alt="image" height="35%" src="/media/Small Tool Holders.jpg" width="35%"/>  |
+| <img alt="image" height="35%" src="/media/Small Tool Holders_1.jpg" width="35%"/> |
+
+Medium-size shelves depending on their design and the weight 
 of their contents, may need to span more than one cleat
+
+
+|                               Small shelf supports                                |
+|:---------------------------------------------------------------------------------:|
+|  <img alt="image" height="35%" src="/media/Small Tool Holders.jpg" width="35%"/>  |
+| <img alt="image" height="35%" src="/media/Small Tool Holders_1.jpg" width="35%"/> |
 
 Choose hooks, racks and shelf brackets and build components to suit them.
