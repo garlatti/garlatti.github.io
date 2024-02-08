@@ -14,7 +14,7 @@ tool holders and tools.
 
 |                                French Cleat Walls                                |
 |:--------------------------------------------------------------------------------:|
-| <img alt="image" height="50%" src="/media/French Cleat System.jpg" width="50%"/> |
+| <img alt="image" height="65%" src="/media/French Cleat System.jpg" width="65%"/> |
 
 
 
