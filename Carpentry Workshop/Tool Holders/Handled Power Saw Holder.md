@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Handled Power Saw Holder
-parent: Tool Holders
+parent: Some Tool Holders
 grand_parent: Carpentry Workshop
 nav_order: 1
 ---

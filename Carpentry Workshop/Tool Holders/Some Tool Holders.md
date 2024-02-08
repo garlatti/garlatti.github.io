@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tool Holders
+title: Some Tool Holders
 parent: Carpentry Workshop
 nav_order: 3
 has_children: true
