@@ -20,4 +20,4 @@ The table circular saw has the same height as the two workbenches.
 |:----------------------------------------------------------------------------------------:|
 |  <img alt="image" height="35%" src="/media/Semi-Stationary Table Saw.jpg" width="35%"/>  |
 |                            The Table Saw with a Sliding table                            |
-|  <img alt="image" height="35%" src="/media/Semi-Stationary Table Saw.jpg" width="35%"/>  |
+| <img alt="image" height="35%" src="/media/Semi-Stationary Table Saw_1.jpg" width="35%"/> |
