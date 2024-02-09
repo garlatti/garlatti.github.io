@@ -24,5 +24,5 @@ Joint
 
 |                               Small Boxes                                |
 |:------------------------------------------------------------------------:|
-| <img alt="image" height="35%" src="/media/Small Box_1.jpg" width="35%"/> | 
-| <img alt="image" height="35%" src="/media/Small Box_2.jpg" width="35%"/> |
+| <img alt="image" height="45%" src="/media/Small Box_1.jpg" width="45%"/> | 
+| <img alt="image" height="45%" src="/media/Small Box_2.jpg" width="45%"/> |
