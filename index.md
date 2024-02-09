@@ -4,9 +4,9 @@ title: Home Page
 nav_order: 1
 has_children: true
 ---
-|                                                           |
-|:---------------------------------------------------------:|
-| <img src="media/Lignarius.png" width="10%" height="10%"/> |
+<center>
+<img src="media/Lignarius.png" width="10%" height="10%" align="middle"/>
+</center>
 
 #  Home page
 
