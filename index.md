@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home page
+title: Home Page
 nav_order: 1
 has_children: true
 ---
