@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Github Curriculum Vitae
-parent: My Website
+parent: Home Page
 nav_order: 1
 ---
 
 #  Github Curriculum Vitae
 
-### Name : Garlatti Serge
+## A retired Guy
 
 ### Current Status : Retired
 

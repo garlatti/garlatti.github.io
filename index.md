@@ -1,13 +1,13 @@
 ---
 layout: default
-title: My Website
+title: Home page
 nav_order: 1
 has_children: true
 ---
 
-#  My WebSite
+#  Home page
 
-|                         Home page                         |
+|                                          |
 |:---------------------------------------------------------:|
 | <img src="media/Lignarius.png" width="25%" height="25%"/> |
 
