@@ -6,7 +6,7 @@ has_children: true
 
 ---
 <center>
-<img src="media/Lignarius.png" width="10%" height="10%" align="middle"/>
+<img src="../media/Lignarius.png" width="10%" height="10%" align="middle"/>
 </center>
 
 # WoodWorking Tools

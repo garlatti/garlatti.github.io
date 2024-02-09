@@ -5,7 +5,7 @@ parent: WoodWorking Projects
 nav_order: 3
 ---
 <center>
-<img src="media/Lignarius.png" width="10%" height="10%" align="middle"/>
+<img src="../media/Lignarius.png" width="10%" height="10%" align="middle"/>
 </center>
 
 The dresser was my first important project with mortise & tenon.

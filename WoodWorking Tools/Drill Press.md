@@ -5,7 +5,7 @@ parent: WoodWorking Tools
 nav_order: 2
 ---
 <center>
-<img src="media/Lignarius.png" width="10%" height="10%" align="middle"/>
+<img src="../media/Lignarius.png" width="10%" height="10%" align="middle"/>
 </center>
 
 My first Drill press - an old one. This old drill press has too much play in the chuck. 

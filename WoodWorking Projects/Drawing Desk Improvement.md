@@ -5,7 +5,7 @@ parent: WoodWorking Projects
 nav_order: 5
 ---
 <center>
-<img src="media/Lignarius.png" width="10%" height="10%" align="middle"/>
+<img src="../media/Lignarius.png" width="10%" height="10%" align="middle"/>
 </center>
 
 # Drawing Desk Improvement

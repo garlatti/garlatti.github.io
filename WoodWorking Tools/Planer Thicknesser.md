@@ -5,7 +5,7 @@ parent: WoodWorking Tools
 nav_order: 1
 ---
 <center>
-<img src="media/Lignarius.png" width="10%" height="10%" align="middle"/>
+<img src="../media/Lignarius.png" width="10%" height="10%" align="middle"/>
 </center>
 
 The first planer thicknesser. I had two Scheppach machines and they were broken - motor burnt out during oak working. 
