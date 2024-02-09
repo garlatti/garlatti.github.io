@@ -4,6 +4,9 @@ title: Router
 parent: WoodWorking Tools
 nav_order: 4
 ---
+<center>
+<img src="media/Lignarius.png" width="10%" height="10%" align="middle"/>
+</center>
 
 My first woodworking machine : a Router Bosch POF 1400 ACE. 
 

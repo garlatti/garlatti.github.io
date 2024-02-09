@@ -5,6 +5,9 @@ parent: Carpentry Workshop
 nav_order: 3
 has_children: true
 ---
+<center>
+<img src="media/Lignarius.png" width="10%" height="10%" align="middle"/>
+</center>
 
 # Some Tool Holders
 

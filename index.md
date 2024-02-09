@@ -10,11 +10,7 @@ has_children: true
 
 #  Home page
 
-|                                          |
-|:---------------------------------------------------------:|
-| <img src="media/Lignarius.png" width="25%" height="25%"/> |
-
-# Introduction
+## Introduction
 
 The website is aiming at describing woodworking projects, 
 the workshop organization and the different tools used in projects. 

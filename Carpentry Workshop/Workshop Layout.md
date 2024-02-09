@@ -4,6 +4,10 @@ title: Carpentry Layout
 parent: Carpentry Workshop
 nav_order: 1
 ---
+<center>
+<img src="media/Lignarius.png" width="10%" height="10%" align="middle"/>
+</center>
+
 # Carpentry Layout
 
 In the workshop, the tool storage is based on the french cleat system.

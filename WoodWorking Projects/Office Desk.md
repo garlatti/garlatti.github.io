@@ -4,6 +4,10 @@ title: Office Desk
 parent: WoodWorking Projects
 nav_order: 7
 ---
+<center>
+<img src="media/Lignarius.png" width="10%" height="10%" align="middle"/>
+</center>
+
 # An Office Desk
 
 Wood

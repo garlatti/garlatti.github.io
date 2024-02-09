@@ -4,6 +4,10 @@ title: Shelves
 parent: WoodWorking Projects
 nav_order: 6
 ---
+<center>
+<img src="media/Lignarius.png" width="10%" height="10%" align="middle"/>
+</center>
+
 The shelves were designed to store toilet paper and cleaning product. The shelves
 are hanging by means of a french cleat system. 
 
