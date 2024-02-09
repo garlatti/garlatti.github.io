@@ -19,8 +19,7 @@ Tools
 Joint
 * Rabbets
 
-|                                                                     NAS Rack                                                                      |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="25%" src="/media/NAS Rack_1.jpg" width="25%"/>](<img alt="image"  src="/media/NAS Rack_1.jpg" />){:target="_blank"} <img alt="image" height="25%" src="/media/NAS Rack.jpg" width="25%"/> | 
+|                                                                    NAS Rack                                                                     |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------:|
+|  <img alt="image" height="25%" src="/media/NAS Rack_1.jpg" width="25%"/> <img alt="image" height="25%" src="/media/NAS Rack.jpg" width="25%"/>  | 
 
-[Markdown](https://www.markdownguide.org/){:target="_blank"}
