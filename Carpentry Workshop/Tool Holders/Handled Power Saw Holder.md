@@ -14,6 +14,6 @@ nav_order: 1
 
 |                               Power Saw Holder                                |
 |:-----------------------------------------------------------------------------:|
-| <img alt="image" height="35%" src="/media/Power Saw Holder.jpg" width="35%"/> | 
+| <img alt="image" height="45%" src="/media/Power Saw Holder.jpg" width="45%"/> | 
 
 

@@ -16,4 +16,4 @@ nav_order: 3
 
 |                           Orbital Sander Holder                            |
 |:--------------------------------------------------------------------------:|
-| <img alt="image" height="35%" src="/media/Sander Holder.jpg" width="35%"/> | 
+| <img alt="image" height="45%" src="/media/Sander Holder.jpg" width="45%"/> | 
