@@ -29,10 +29,10 @@ compatible 45-degree hook attached,
 
  Some pictures of the french cleat system in my workshop. 
 
-|                               My French Cleat System                                |
-|:-----------------------------------------------------------------------------------:|
-|  <img alt="image" height="55%" src="/media/Organisation_Globale.jpg" width="55%"/>  | 
-| <img alt="image" height="55%" src="/media/Organisation_Globale_1.jpg" width="55%"/> | 
+|                                                                        My French Cleat System                                                                        |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  [<img alt="image" height="55%" src="/media/Organisation_Globale.jpg" width="55%"/>](https://garlatti.github.io/media/Organisation_Globale.jpg){:target = "_blank"}  | 
+| [<img alt="image" height="55%" src="/media/Organisation_Globale_1.jpg" width="55%"/>](https://garlatti.github.io/media/Organisation_Globale.jpg){:target = "_blank"} | 
 
 Two workbenches are used: 
 

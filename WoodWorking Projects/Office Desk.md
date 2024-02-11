@@ -23,11 +23,11 @@ Joints
 * Half-blind dovetails for the drawer
 * Rabbets
 
-|                             Office Desk Parts                              |
-|:--------------------------------------------------------------------------:|
-|  <img alt="image" height="25%" src="/media/Office Desk.jpg" width="25%"/>  <img alt="image" height="25%" src="/media/Office Desk_2.jpg" width="25%"/> | 
-| <img alt="image" height="25%" src="/media/Office Desk_3.jpg" width="25%"/> <img alt="image" height="25%" src="/media/Office Desk_4.jpg" width="25%"/> |
+|                                                                                                                                               Office Desk Parts                                                                                                                                               |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  [<img alt="image" height="25%" src="/media/Office Desk.jpg" width="25%"/>](https://garlatti.github.io/media/Office%20Desk.jpg){:target = "_blank"}  [<img alt="image" height="25%" src="/media/Office Desk_2.jpg" width="25%"/>](https://garlatti.github.io/media/Office%20Desk_2.jpg){:target = "_blank"}   | 
+| [<img alt="image" height="25%" src="/media/Office Desk_3.jpg" width="25%"/>](https://garlatti.github.io/media/Office%20Desk_3.jpg){:target = "_blank"} [<img alt="image" height="25%" src="/media/Office Desk_4.jpg" width="25%"/>](https://garlatti.github.io/media/Office%20Desk_4.jpg){:target = "_blank"} |
 
-|                                Office Desk                                 |
-|:--------------------------------------------------------------------------:|
-| <img alt="image" height="35%" src="/media/Office Desk_5.jpg" width="35%"/>  <img alt="image" height="35%" src="/media/Office Desk_6.jpg" width="35%"/> |
+|                                                                                                                                                  Office Desk                                                                                                                                                   |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="35%" src="/media/Office Desk_5.jpg" width="35%"/>](https://garlatti.github.io/media/Office%20Desk_5.jpg){:target = "_blank"}  [<img alt="image" height="35%" src="/media/Office Desk_6.jpg" width="35%"/>](https://garlatti.github.io/media/Office%20Desk_6.jpg){:target = "_blank"} |

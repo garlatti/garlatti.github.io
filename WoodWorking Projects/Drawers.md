@@ -23,12 +23,12 @@ Joints
 * Half-blind dovetails
 * Rabbets for the drawer bottom
 
-|                                Drawers                                |
-|:---------------------------------------------------------------------:|
-| <img alt="image" height="35%" src="/media/Drawers.jpg" width="35%"/> <img alt="image" height="35%" src="/media/Drawer_2.jpg" width="35%"/> | 
+|                                                                                                                                       Drawers                                                                                                                                       |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="35%" src="/media/Drawers.jpg" width="35%"/>](https://garlatti.github.io/media/Drawers.jpg){:target = "_blank"} [<img alt="image" height="35%" src="/media/Drawer_2.jpg" width="35%"/>](https://garlatti.github.io/media/Drawer_2.jpg){:target = "_blank"} | 
 
 
 
 |                          Drawers in Bedroom                           |
 |:---------------------------------------------------------------------:| | 
-| <img alt="image" height="35%" src="/media/Drawer_3.jpg" width="35%"/> | 
+| [<img alt="image" height="35%" src="/media/Drawer_3.jpg" width="35%"/>](https://garlatti.github.io/media/Drawers_3.jpg){:target = "_blank"} | 

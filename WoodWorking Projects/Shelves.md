@@ -23,6 +23,6 @@ Joints
 * Rabbets
 * French Cleat
 
-|                                                                   Shelves                                                                    |
-|:--------------------------------------------------------------------------------------------------------------------------------------------:|
-| <img alt="image" height="35%" src="/media/Shelves.jpg" width="35%"/>  <img alt="image" height="35%" src="/media/Shelves_1.jpg" width="35%"/> | 
+|                                                                                                                                        Shelves                                                                                                                                         |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="35%" src="/media/Shelves.jpg" width="35%"/>](https://garlatti.github.io/media/Shelves.jpg){:target = "_blank"}  [<img alt="image" height="35%" src="/media/Shelves_1.jpg" width="35%"/>](https://garlatti.github.io/media/Shelves_1.jpg){:target = "_blank"} | 

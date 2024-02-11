@@ -11,6 +11,6 @@ nav_order: 5
 A Bosch Jigsaw
 
 
-|                            Bosch PST 9500 PEL                          |
-|:---------------------------------------------------------------------------------:|
-|  <img alt="image" height="25%" src="/media/Bosch_PSt_9500_PEL.jpg" width="50%"/>  | 
+|                                                                       Bosch PST 9500 PEL                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="25%" src="/media/Bosch_PSt_9500_PEL.jpg" width="50%"/>](https://garlatti.github.io/media/Bosch_PSt_9500_PEL.jpg){:target = "_blank"} | 

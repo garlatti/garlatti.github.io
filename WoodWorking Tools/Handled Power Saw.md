@@ -11,6 +11,6 @@ nav_order: 6
 The Handled Power Saw, Makita
 
 
-|                            Makita HS7601K                             |
-|:---------------------------------------------------------------------:|
-|  <img alt="image" height="25%" src="/media/Makita.jpg" width="50%"/>  | 
+|                                                                 Makita HS7601K                                                                 |
+|:----------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="25%" src="/media/Makita.jpg" width="50%"/>](https://garlatti.github.io/media/Makita.jpg){:target = "_blank"} | 

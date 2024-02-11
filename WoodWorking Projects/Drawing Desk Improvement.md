@@ -23,7 +23,7 @@ Joint
 * Rabbets
 * Half-blind dovetails
 
-|                                                                         Drawers and pencil holder                                                                         |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| <img alt="image" height="35%" src="/media/Drawers_Pencil_Holder.jpg" width="35%"/>  <img alt="image" height="35%" src="/media/Drawers_Pencil_Holder_1.jpg" width="35%"/>  | 
-|                                           <img alt="image" height="35%" src="/media/Drawers_Pencil_Holder_2.jpg" width="35%"/>                                            | 
+|                                                                                                                                                           Drawers and pencil holder                                                                                                                                                            |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="35%" src="/media/Drawers_Pencil_Holder.jpg" width="35%"/>](https://garlatti.github.io/media/Drawers_Pencil_Holder.jpg){:target = "_blank"}  [<img alt="image" height="35%" src="/media/Drawers_Pencil_Holder_1.jpg" width="35%"/>](https://garlatti.github.io/media/Drawers_Pencil_Holder_1.jpg){:target = "_blank"} | 
+|                                                                                           [<img alt="image" height="35%" src="/media/Drawers_Pencil_Holder_2.jpg" width="35%"/>](https://garlatti.github.io/media/Drawers_Pencil_Holder_2.jpg){:target = "_blank"}                                                                                           | 

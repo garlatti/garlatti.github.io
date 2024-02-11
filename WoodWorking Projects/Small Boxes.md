@@ -22,6 +22,6 @@ Tools
 Joint
 * Box Joint
 
-|                               Small Boxes                                |
-|:------------------------------------------------------------------------:|
-| <img alt="image" height="45%" src="/media/Small Box_1.jpg" width="45%"/> <img alt="image" height="45%" src="/media/Small Box_2.jpg" width="45%"/> |
+|                                                                                                                                              Small Boxes                                                                                                                                              |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="45%" src="/media/Small Box_1.jpg" width="45%"/>](https://garlatti.github.io/media/Small%20Box_1.jpg){:target = "_blank"} [<img alt="image" height="45%" src="/media/Small Box_2.jpg" width="45%"/>](https://garlatti.github.io/media/Small%20Box_2.jpg){:target = "_blank"} |
