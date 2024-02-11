@@ -31,4 +31,4 @@ Joints
 
 |                          Drawers in Bedroom                           |
 |:---------------------------------------------------------------------:| | 
-| [<img alt="image" height="35%" src="/media/Drawer_3.jpg" width="35%"/>](https://garlatti.github.io/media/Drawers_3.jpg){:target = "_blank"} | 
+| [<img alt="image" height="35%" src="/media/Drawer_3.jpg" width="35%"/>](https://garlatti.github.io/media/Drawer_3.jpg){:target = "_blank"} | 

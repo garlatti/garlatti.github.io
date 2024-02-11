@@ -13,7 +13,7 @@ The first planer thicknesser. I had two Scheppach machines and they were broken 
 
 |                                                                       Scheppach HMS 1080                                                                       |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="35%" src="/media/Scheppach_HMS_1080.jpg" width="35%"/>[(https://garlatti.github.io/media/Scheppach_HMS_1080.jpg){:target = "_blank"} | 
+| [<img alt="image" height="35%" src="/media/Scheppach_HMS_1080.jpg" width="35%"/>](https://garlatti.github.io/media/Scheppach_HMS_1080.jpg){:target = "_blank"} | 
 
 My third planer thicknesser.  
 
