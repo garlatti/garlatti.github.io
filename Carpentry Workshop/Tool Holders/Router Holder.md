@@ -13,6 +13,6 @@ nav_order: 4
 # Router Holder
 
 
-|                                Router Holder                                |
-|:---------------------------------------------------------------------------:|
-| <img alt="image" height="35%" src="/media/Router Holder_1.jpg" width="35%"/> | 
+|                                                                        Router Holder                                                                         |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="35%" src="/media/Router Holder_1.jpg" width="35%"/>] (https://garlatti.github.io/media/Router%20Holder_1.jpg) {:target = "_blank"} | 
