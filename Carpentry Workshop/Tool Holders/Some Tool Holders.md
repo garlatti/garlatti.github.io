@@ -15,9 +15,9 @@ Once you build a French Cleat tool wall, you need to start adding
 tool holders and tools. 
 
 
-|                                                                         French Cleat Walls                                                                          |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="65%" src="/media/French Cleat System.jpg" width="65%"/>]https://garlatti.github.io/media/French%20Cleat%20System.jpg){:target = "_blank"} |
+|                                                                          French Cleat Walls                                                                          |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="65%" src="/media/French Cleat System.jpg" width="65%"/>](https://garlatti.github.io/media/French%20Cleat%20System.jpg){:target = "_blank"} |
 
 
 
