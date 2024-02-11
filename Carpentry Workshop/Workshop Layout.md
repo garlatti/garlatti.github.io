@@ -36,7 +36,7 @@ compatible 45-degree hook attached,
 
 Two workbenches are used: 
 
-<img alt="image" height="55%" src="/media/Organisation_Globale_2.jpg" width="55%"/>
+[<img alt="image" height="55%" src="/media/Organisation_Globale_2.jpg" width="55%"/>](https://garlatti.github.io/media/Organisation_Globale_2.jpg){:target = "_blank"}
 
 * The first one - on the left - is a Machine Table MASTER cut 2600 - Wolfcraft. It is a  multifunctional machine table
   
