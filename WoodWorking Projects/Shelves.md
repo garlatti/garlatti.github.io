@@ -20,7 +20,7 @@ Tools
 
 Joints
 * half-blind dovetails
-* Rabbets
+* Rabbets, Full housing joint
 * French Cleat
 
 |                                                                                                                                        Shelves                                                                                                                                         |
