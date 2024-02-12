@@ -20,7 +20,7 @@ Tools
 * Universal interlocking joint system CMT300 with an half-blind dovetail jig
 
 Joint
-* Rabbets
+* Rabbets, Full housing joint
 * Half-blind dovetails
 
 |                                                                                                                                                           Drawers and pencil holder                                                                                                                                                            |
