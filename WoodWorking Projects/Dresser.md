@@ -21,7 +21,7 @@ Tools
 
 Joints
 * Mortise & Tenon for the dresser structure
-* Rabbets for drawers and dresser sides & rear
+* Rabbets for drawers and dresser sides & rear, Full housing joint
 
 |                                                                                                                                       Dresser parts                                                                                                                                       |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
