@@ -15,6 +15,8 @@ has_children: true
 The website is aiming at describing woodworking projects, 
 the workshop organization and the different tools used in projects. 
 
+__Most images are also hyperlinks to full size images.__
+
 The Website is written in [Markdown](https://www.markdownguide.org/){:target="_blank"} with 
 [Jekyll](https://jekyllrb.com/){:target="_blank"} and powered by [GitHub Pages](https://pages.github.com/){:target="_blank"},
 to describe the new life of a very busy retired guy. The responsive Jekyll theme 
