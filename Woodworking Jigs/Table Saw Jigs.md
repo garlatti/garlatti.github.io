@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Table Saw Jigs
-parent: WoodWorking Tools
-nav_order: 2
+parent: WoodWorking Jigs
+nav_order: 1
 ---
 <center>
 <img src="../media/Lignarius.png" width="10%" height="10%" align="middle"/>
@@ -35,7 +35,8 @@ Three different types of jigs have been designed
 * Several Box Joint Jigs
   * Different box joint jigs - also called finger joints, having different sizes, are shown on figures.
      * The first is a fixed one: the "blade" size
-     * The others display one sliding support with different jigs according to the desired size of the finger joint . 
+     * The others display one sliding support with different jigs according to the desired size of the finger joint.
+       The screws are used to tune the jig move according to the finger joint size. 
 
 | Box Joint Jigs                                                                                                                                            |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------|

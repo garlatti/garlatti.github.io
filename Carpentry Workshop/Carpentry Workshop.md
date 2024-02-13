@@ -2,6 +2,7 @@
 layout: default
 title: Carpentry Workshop
 has_children: true
+nav_order: 5
 ---
 <center>
 <img src="../media/Lignarius.png" width="10%" height="10%" align="middle"/>
