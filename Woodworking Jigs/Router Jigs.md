@@ -2,7 +2,7 @@
 layout: default
 title: Router Jigs
 parent: WoodWorking Jigs
-nav_order: 2
+nav_order: 3
 ---
 <center>
 <img src="../media/Lignarius.png" width="10%" height="10%" align="middle"/>
@@ -13,7 +13,7 @@ nav_order: 2
 Two DIY router jigs are used
 * The first one is a simple Rabbet Router Jig - from 10 mm to 20 mm. 
 * The second one is a complex jigs designed by [Samuel Mamias](https://www.samuelmamias.com/){:target= "_blank"} 
-   to make box joint, dovetail joint, Mortise and Tenon, etc... 
+   to make box joint, dovetail joint, Mortise and Tenon, Open slot mortise, etc... 
 
  
 
