@@ -21,17 +21,16 @@ Three different types of jigs have been designed
   * The cut made with a table saw sled is always perfectly square.
  
 
-|                                                                                                                                                       Cross Cut Sled                                                                                                                                                       |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="25%" src="/media/Cross Cut Sled.jpg" width="25%"/>](https://garlatti.github.io/media/Cross%20Cut%20Sled.jpg){:target = "_blank"} [<img alt="image" height="25%" src="/media/Cross Cut Sled_1.jpg" width="25%"/>](https://garlatti.github.io/media/Cross%20Cut%20Sled_1.jpg){:target = "_blank"}  |
+|                                                                                                                                                      Cross Cut Sled                                                                                                                                                       |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="25%" src="/media/Cross Cut Sled.jpg" width="25%"/>](https://garlatti.github.io/media/Cross%20Cut%20Sled.jpg){:target = "_blank"} [<img alt="image" height="25%" src="/media/Cross Cut Sled_1.jpg" width="35%"/>](https://garlatti.github.io/media/Cross%20Cut%20Sled_1.jpg){:target = "_blank"} |
  
 * A "Vertical" Jig 
   * Such type of jig is very convenient to make open slot mortise, bridle joint, castle joint - shown on the figures, etc. 
 
 | Vertical Jig                                                                                                                                            |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [<img alt="image" height="20%" src="/media/Vertical Jig.jpg" width="20%"/>](https://garlatti.github.io/media/Vertical%20Jig.jpg){:target = "_blank"}  [<img alt="image" height="20%" src="/media/Vertical Jig_1.jpg" width="20%"/>](https://garlatti.github.io/media/Vertical%20Jig_1.jpg){:target = "_blank"} |
-| [<img alt="image" height="00%" src="/media/Vertical Jig_2.jpg" width="20%"/>](https://garlatti.github.io/media/Vertical%20Jig_2.jpg){:target = "_blank"} |
+| [<img alt="image" height="20%" src="/media/Vertical Jig.jpg" width="20%"/>](https://garlatti.github.io/media/Vertical%20Jig.jpg){:target = "_blank"}  [<img alt="image" height="20%" src="/media/Vertical Jig_1.jpg" width="20%"/>](https://garlatti.github.io/media/Vertical%20Jig_1.jpg){:target = "_blank"} [<img alt="image" height="00%" src="/media/Vertical Jig_2.jpg" width="20%"/>](https://garlatti.github.io/media/Vertical%20Jig_2.jpg){:target = "_blank"} |
 
 * Several Box Joint Jigs
   * Different box joint jigs - also called finger joints, having different sizes, are shown on figures.
@@ -40,5 +39,4 @@ Three different types of jigs have been designed
 
 | Box Joint Jigs                                                                                                                                            |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [<img alt="image" height="20%" src="/media/Box_Joint_Jigs.jpg" width="20%"/>](https://garlatti.github.io/media/Box_Joint_Jigs.jpg){:target = "_blank"} [<img alt="image" height="20%" src="/media/Box_Joint_Jigs_1.jpg" width="20%"/>](https://garlatti.github.io/media/Box_Joint_Jigs_1.jpg){:target = "_blank"} |
-| [<img alt="image" height="20%" src="/media/Box_Joint_Jigs_2.jpg" width="20%"/>](https://garlatti.github.io/media/Box_Joint_Jigs_2.jpg){:target = "_blank"} |
+| [<img alt="image" height="20%" src="/media/Box_Joint_Jigs.jpg" width="20%"/>](https://garlatti.github.io/media/Box_Joint_Jigs.jpg){:target = "_blank"} [<img alt="image" height="20%" src="/media/Box_Joint_Jigs_1.jpg" width="20%"/>](https://garlatti.github.io/media/Box_Joint_Jigs_1.jpg){:target = "_blank"} [<img alt="image" height="20%" src="/media/Box_Joint_Jigs_2.jpg" width="20%"/>](https://garlatti.github.io/media/Box_Joint_Jigs_2.jpg){:target = "_blank"} |
