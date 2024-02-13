@@ -29,11 +29,11 @@ Three different types of jigs have been designed
 * A "Vertical" Jig 
   * Such type of jig is very convenient to make open slot mortise, bridle joint, castle joint - shown on the figures, etc. 
 
-| Vertical Jig                                                                                                                                            |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [<img alt="image" height="30%" src="/media/Vertical Jig.jpg" width="30%"/>](https://garlatti.github.io/media/Vertical%20Jig.jpg){:target = "_blank"}    |  
-| [<img alt="image" height="30%" src="/media/Vertical Jig_1.jpg" width="30%"/>](https://garlatti.github.io/media/Vertical%20Jig_1.jpg){:target = "_blank"} |
-| [<img alt="image" height="30%" src="/media/Vertical Jig_2.jpg" width="30%"/>](https://garlatti.github.io/media/Vertical%20Jig_2.jpg){:target = "_blank"} |
+| Vertical Jig                                                                                                                                             |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [<img alt="image" height="20%" src="/media/Vertical Jig.jpg" width="20%"/>](https://garlatti.github.io/media/Vertical%20Jig.jpg){:target = "_blank"}     |  
+| [<img alt="image" height="20%" src="/media/Vertical Jig_1.jpg" width="20%"/>](https://garlatti.github.io/media/Vertical%20Jig_1.jpg){:target = "_blank"} |
+| [<img alt="image" height="00%" src="/media/Vertical Jig_2.jpg" width="20%"/>](https://garlatti.github.io/media/Vertical%20Jig_2.jpg){:target = "_blank"} |
 
 * Several Box Joint Jigs
   * Different box joint jigs - also called finger joints, having different sizes, are shown on figures.
@@ -42,6 +42,6 @@ Three different types of jigs have been designed
 
 | Box Joint Jigs                                                                                                                                              |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [<img alt="image" height="30%" src="/media/Box_Joint_Jigs.jpg" width="30%"/>](https://garlatti.github.io/media/Box_Joint_Jigs.jpg){:target = "_blank"}      |  
-| [<img alt="image" height="30%" src="/media/Box_Joint_Jigs_1.jpg" width="30%"/>](https://garlatti.github.io/media/Box_Joint_Jigs_1.jpg){:target = "_blank"}  |
-| [<img alt="image" height="30%" src="/media/Box_Joint_Jigs_2.jpg" width="30%"/>](https://garlatti.github.io/media/Box_Joint_JigsA_2.jpg){:target = "_blank"} |
+| [<img alt="image" height="20%" src="/media/Box_Joint_Jigs.jpg" width="20%"/>](https://garlatti.github.io/media/Box_Joint_Jigs.jpg){:target = "_blank"}      |  
+| [<img alt="image" height="20%" src="/media/Box_Joint_Jigs_1.jpg" width="20%"/>](https://garlatti.github.io/media/Box_Joint_Jigs_1.jpg){:target = "_blank"}  |
+| [<img alt="image" height="20%" src="/media/Box_Joint_Jigs_2.jpg" width="20%"/>](https://garlatti.github.io/media/Box_Joint_JigsA_2.jpg){:target = "_blank"} |
