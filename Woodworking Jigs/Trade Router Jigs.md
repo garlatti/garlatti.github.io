@@ -23,7 +23,7 @@ Two DIY router jigs are used
  
 In the complex router jig, To make different types of joints, you have to change the jigs on the second picture. 
 
-| Complex router Jigs                                                                                                                                                                                                                                                                                            |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [<img alt="image" height="20%" src="/media/Router_Jigs_1.jpg.jpg" width="20%"/>](https://garlatti.github.io/media/Router_Jigs_1.jpg){:target = "_blank"}  [<img alt="image" height="20%" src="/media/Router_Jigs_2.jpg" width="20%"/>](https://garlatti.github.io/media/Router_Jigs_2.jpg){:target = "_blank"} |
+| Complex router Jigs                                                                                                                                                                                                                                                                                        |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [<img alt="image" height="20%" src="/media/Router_Jigs_1.jpg" width="20%"/>](https://garlatti.github.io/media/Router_Jigs_1.jpg){:target = "_blank"}  [<img alt="image" height="20%" src="/media/Router_Jigs_2.jpg" width="20%"/>](https://garlatti.github.io/media/Router_Jigs_2.jpg){:target = "_blank"} |
 
