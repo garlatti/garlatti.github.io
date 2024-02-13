@@ -38,7 +38,7 @@ Four different jigs, three from  Trend Tool Technology and the fourth one from C
 
 |                                                                     Trend VariJig                                                                      |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="25%" src="/media/Trend varijig.jpg" width="25%"/>](https://garlatti.github.io/media/Trend%20varijig.jpg){:target = "_blank"} |
+| [<img alt="image" height="25%" src="/media/Trend variJig.jpg" width="25%"/>](https://garlatti.github.io/media/Trend%20variJig.jpg){:target = "_blank"} |
 
 
 * The third one is a Mortise and Tenon Jig Euro (Metric Size), enabling mortise & tenons and dowel joints 
