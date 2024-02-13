@@ -38,7 +38,7 @@ Four different jigs, three from  Trend Tool Technology and the fourth one from C
 
 |                                                                     Trend VariJig                                                                      |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="25%" src="/media/Trend Varijig.jpg" width="25%"/>](https://garlatti.github.io/media/Trend%20Varijig.jpg){:target = "_blank"} |
+| [<img alt="image" height="25%" src="/media/Trend varijig.jpg" width="25%"/>](https://garlatti.github.io/media/Trend%20varijig.jpg){:target = "_blank"} |
 
 
 * The third one is a Mortise and Tenon Jig Euro (Metric Size), enabling mortise & tenons and dowel joints 
@@ -59,6 +59,6 @@ Four different jigs, three from  Trend Tool Technology and the fourth one from C
  dovetails and finger joints according to the chosen template, guided bush and router bit.
 
 
-| CMT 300 Router Jig                                                                                          |
+| CMT 300 Router Jig                                                                                                                                   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [<img alt="image" height="20%" src="/media/Cmt Tool_Jigs.jpg" width="20%"/>](https://garlatti.github.io/media/Cmt Tool_Jigs.jpg){:target = "_blank"} |
+| [<img alt="image" height="20%" src="/media/CMT_Tool_Jigs.jpg" width="20%"/>](https://garlatti.github.io/media/CMT_Tool_Jigs.jpg){:target = "_blank"} |
