@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Trade Router Jigs
-parent: WoodWorking Jigs
+parent: Jigs
 nav_order: 4
 ---
 <center>

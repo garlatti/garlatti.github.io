@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Table Saw Jigs
-parent: WoodWorking Jigs
+parent: Jigs
 nav_order: 1
 ---
 <center>

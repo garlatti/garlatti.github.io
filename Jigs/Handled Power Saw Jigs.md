@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Handled Power Saw Jigs
-parent: WoodWorking Jigs
+parent: Jigs
 nav_order: 2
 ---
 <center>

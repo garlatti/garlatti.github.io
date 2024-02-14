@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Router Jigs
-parent: WoodWorking Jigs
+parent: Jigs
 nav_order: 3
 ---
 <center>
