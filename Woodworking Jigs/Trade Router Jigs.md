@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Trade Router Jigs
+title: Router Jigs
 parent: WoodWorking Jigs
-nav_order: 4
+nav_order: 3
 ---
 <center>
 <img src="../media/Lignarius.png" width="10%" height="10%" align="middle"/>
