@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Drawing Desk Improvement
-parent: WoodWorking Projects
+parent: Projects
 nav_order: 5
 ---
 <center>

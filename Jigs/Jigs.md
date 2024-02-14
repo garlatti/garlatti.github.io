@@ -1,9 +1,9 @@
 ---
 layout: default
-title: WoodWorking Jigs
+title: Jigs
 nav_order: 4
 has_children: true
-# permalink: /WoodWorking Projects/
+# permalink: /Projects/
 ---
 <center>
 <img src="../media/Lignarius.png" width="10%" height="10%" align="middle"/>

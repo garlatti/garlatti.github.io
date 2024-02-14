@@ -1,7 +1,7 @@
 ---
 layout: default
 title: NAS Rack
-parent: WoodWorking Projects
+parent: Projects
 nav_order: 1
 ---
 <center>

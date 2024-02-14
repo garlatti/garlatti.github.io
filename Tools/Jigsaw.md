@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jigsaw
-parent: WoodWorking Tools
+parent: Tools
 nav_order: 5
 ---
 <center>

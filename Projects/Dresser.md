@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dresser
-parent: WoodWorking Projects
+parent: Projects
 nav_order: 3
 ---
 <center>

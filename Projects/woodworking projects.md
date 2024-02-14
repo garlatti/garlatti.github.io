@@ -1,9 +1,9 @@
 ---
 layout: default
-title: WoodWorking Projects
+title: Projects
 nav_order: 2
 has_children: true
-# permalink: /WoodWorking Projects/
+# permalink: /Projects/
 ---
 <center>
 <img src="../media/Lignarius.png" width="10%" height="10%" align="middle"/>

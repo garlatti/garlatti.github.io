@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Drill Press
-parent: WoodWorking Tools
+parent: Tools
 nav_order: 2
 ---
 <center>

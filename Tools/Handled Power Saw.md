@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Handled Power Saw
-parent: WoodWorking Tools
+parent: Tools
 nav_order: 6
 ---
 <center>

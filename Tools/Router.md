@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Router
-parent: WoodWorking Tools
+parent: Tools
 nav_order: 4
 ---
 <center>

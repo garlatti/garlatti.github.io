@@ -12,7 +12,7 @@ nav_order: 2
 
 Two types of jigs are used
 * The first one is  DIY jig to ensure square cut with handled saw. 
-* The second on is a Guide Rail FKS 145 for Circular Hand Saws, from Wolfcraft. 
+* The second one is a Guide Rail FKS 145 for Circular Hand Saws, from Wolfcraft. 
 
 
 |                                                                                                                                                           Handled Power Saw Jig                                                                                                                                                           |

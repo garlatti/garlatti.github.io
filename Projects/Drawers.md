@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Drawers
-parent: WoodWorking Projects
+parent: Projects
 nav_order: 4
 ---
 <center>

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WoodWorking Tools
+title: Tools
 nav_order: 3
 has_children: true
 

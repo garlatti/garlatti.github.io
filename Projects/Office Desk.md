@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Office Desk
-parent: WoodWorking Projects
+parent: Projects
 nav_order: 7
 ---
 <center>

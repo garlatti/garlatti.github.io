@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Small Boxes
-parent: WoodWorking Projects
+parent: Projects
 nav_order: 2
 ---
 <center>

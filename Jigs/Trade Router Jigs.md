@@ -30,7 +30,7 @@ Four different jigs, three from  Trend Tool Technology and the fourth one from C
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | [<img alt="image" height="25%" src="/media/Trend Combination Router Base.jpg" width="25%"/>](https://garlatti.github.io/media/Trend%20Combination%20Router%20Base.jpg){:target = "_blank"} [<img alt="image" height="25%" src="/media/Trend Combination Router Base_1.jpg" width="25%"/>](https://garlatti.github.io/media/Trend%20Combination%20Router%20Base_1.jpg){:target = "_blank"} [<img alt="image" height="25%" src="/media/Trend Combination Router Base_2.jpg" width="25%"/>](https://garlatti.github.io/media/Trend%20Combination%20Router%20Base_2.jpg){:target = "_blank"} |
  
-* The second one id the Varijig system. It is an adjustable frame and guide for use with a router. It is composed 
+* The second one is the Varijig system. It is an adjustable frame and guide for use with a router. It is composed 
   of four lengths of 700mm extrusion with dual metric/imperial measuring scales - a working area 600mm x 600mm.
  * Adjustable frame for rectangles and squares.
  * Allows a router to cut recesses, slots, face panel moulds etc. 
@@ -55,7 +55,7 @@ Four different jigs, three from  Trend Tool Technology and the fourth one from C
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [<img alt="image" height="20%" src="/media/Trend_Router_Jig.jpg" width="20%"/>](https://garlatti.github.io/media/Trend_Router_Jig.jpg){:target = "_blank"}  [<img alt="image" height="20%" src="/media/Trend_Router_Jig_1.jpg" width="20%"/>](https://garlatti.github.io/media/Trend_Router_Jig_1.jpg){:target = "_blank"} |
 
-* The fourth one is an universal interlocking Joint jig. It enable us to make dovetails, half-blind 
+* The fourth one is an universal interlocking Joint jig. It makes it possible to make dovetails, half-blind 
  dovetails and finger joints according to the chosen template, guided bush and router bit.
 
 

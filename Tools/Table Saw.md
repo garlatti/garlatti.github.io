@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Table Saw
-parent: WoodWorking Tools
+parent: Tools
 nav_order: 3
 ---
 <center>
