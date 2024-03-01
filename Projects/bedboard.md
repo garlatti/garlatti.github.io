@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Drawers
+title: Bedboards
 parent: Projects
 nav_order: 8
 ---
