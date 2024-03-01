@@ -2,7 +2,7 @@
 layout: default
 title: Drawers
 parent: Projects
-nav_order: 9
+nav_order: 8
 ---
 <center>
 <img src="../media/Lignarius.png" width="10%" height="10%" align="middle"/>
