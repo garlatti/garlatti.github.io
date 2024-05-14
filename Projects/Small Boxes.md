@@ -10,7 +10,7 @@ nav_order: 2
 
 # Small Boxes
 
-Thees small boxes are designed for a very special goal: shooting competition. 
+These small boxes are designed for a very special goal: shooting competition. 
 
 Wood
 * Pine and beech
