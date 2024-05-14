@@ -12,7 +12,7 @@ nav_order: 3
 
 Two DIY router jigs are used
 * The first one is a simple Rabbet Router Jig - from 10 mm to 20 mm. 
-* The second one is a complex jigs designed by [Samuel Mamias](https://www.samuelmamias.com/){:target= "_blank"} 
+* The second one is a complex jig designed by [Samuel Mamias](https://www.samuelmamias.com/){:target= "_blank"} 
    to make box joint, dovetail joint, Mortise and Tenon, Open slot mortise, etc... 
 
  
