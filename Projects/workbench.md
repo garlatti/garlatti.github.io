@@ -19,8 +19,10 @@ Wood
 * T-Track rail
 
 Tools
-* Table saw, router, sanders
-* DIY jigs for mortise
+* Table saw, 
+* Router and  DIY jigs for mortising
+* Planer Thicknesser
+* Sanders
 
 
 Joints
