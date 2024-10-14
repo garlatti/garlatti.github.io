@@ -5,6 +5,8 @@ title: Woodworking Hobby
 # Set a path/url to a logo that will be displayed instead of the title
 # logo: "/media/lignarius_Small_1.png"
 
+
+
 # Set a path/url to a favicon that will be displayed by the browser
 favicon_ico: "/media/Lignarius.ico"
 
@@ -13,7 +15,7 @@ description: Markdown + Jekyll + "Just the Docs" jekyll theme + GitHub Pages
 baseurl: ""
 url: "https://https://garlatti.github.io"
 
-remote_theme: just-the-docs/just-the-docs@v0.8.2
+remote_theme: just-the-docs/just-the-docs@v0.8.1
 
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
