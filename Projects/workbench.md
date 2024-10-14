@@ -13,8 +13,9 @@ nav_order: 9
 This workbench was inspired from the [Flokard's and /Piroky's workbench](https://www.lairdubois.fr/plans/2403-etabli-flokard-piroky-pdf-et-skp-par-swann-wild.html){:target="_blank"}
 
 Wood
-* Dark Red Meranti: wooden tile, 3 butted ply KKK 86x63
-* Valchromat: standard MDF stained in the mass
+* Dark Red Meranti: wooden tile, 3 butted ply KKK 86x63 for the workbench frame
+* Valchromat: standard MDF stained in the mass for the tray
+* Oak for floating tenons
 * T-Track rail
 
 Tools
@@ -27,7 +28,21 @@ Joints
 
 
 
-|                                                                                                                                         Bedboards                                                                                                                                          |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="35%" src="/media/Bedboard.jpg" width="35%"/>](https://garlatti.github.io/media/Bedboard.jpg){:target = "_blank"}  [<img alt="image" height="25%" src="/media/Bedboard_1.jpg" width="25%"/>](https://garlatti.github.io/media/Bedboard_1.jpg){:target = "_blank"} | 
+|                                                                  Workbench                                                                  |
+|:-------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="35%" src="/media/workbench.jpg" width="45%"/>](https://garlatti.github.io/media/Bedboard.jpg){:target = "_blank"} | 
+|      
+
+
+
+|                                                                                                                                            DiY Jigs and floating Tenon                                                                                                                                             |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="35%" src="/media/Workbench_DIY_Jigs.jpg" width="15%"/>](https://garlatti.github.io/media/Bedboard.jpg){:target = "_blank"}  [<img alt="image" height="25%" src="/media/Workbench_Floating_Tenon.jpg" width="15%"/>](https://garlatti.github.io/media/Bedboard_1.jpg){:target = "_blank"} | 
+|      
+
+
+
+|                                                                                                                                                                                                                                Mortises                                                                                                                                                                                                                                |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="35%" src="/media/Workbench_Mortise_1.jpg" width="15%"/>](https://garlatti.github.io/media/Bedboard.jpg){:target = "_blank"}  [<img alt="image" height="25%" src="/media/Workbench_Mortise_2.jpg" width="25%"/>](https://garlatti.github.io/media/Bedboard_1.jpg){:target = "_blank"} [<img alt="image" height="25%" src="/media/Workbench_Mortise_3.jpg" width="25%"/>](https://garlatti.github.io/media/Bedboard_1.jpg){:target = "_blank"} | 
 |      
