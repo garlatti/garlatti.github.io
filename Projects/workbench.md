@@ -20,7 +20,7 @@ Wood
 
 Tools
 * Table saw, 
-* Router and  DIY jigs for mortising inspired by [3X3 Custom](https://www.3x3custom.com/){:target="_blank"} for her workbench joinery, [Youtube](https://www.youtube.com/watch?v=Mpa3zoFkuLI&t=420s) {:target="_blank"}
+* Router and  DIY jigs for mortising inspired by [3X3 Custom](https://www.3x3custom.com/){:target="_blank"} for her workbench joinery, [Youtube DIY Jigs](https://www.youtube.com/watch?v=Mpa3zoFkuLI&t=420s){:target="_blank"}
 * Planer Thicknesser
 * Sanders
 
