@@ -8,10 +8,14 @@ nav_order: 9
 <img src="../media/Lignarius.png" width="10%" height="10%" align="middle"/>
 </center>
 
-# An MFT Workbench
+# MFT Workbench
+
+This workbench was inspired from the [Flokard's and /Piroky's workbench](https://www.lairdubois.fr/plans/2403-etabli-flokard-piroky-pdf-et-skp-par-swann-wild.html){:target="_blank"}
 
 Wood
-* Glued laminated beech
+* Dark Red Meranti: wooden tile, 3 butted ply KKK 86x63
+* Valchromat: standard MDF stained in the mass
+* T-Track rail
 
 Tools
 * Table saw, router, sanders
