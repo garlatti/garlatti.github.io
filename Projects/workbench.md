@@ -26,7 +26,7 @@ Tools
 
 
 Joints
-* Mortise and floating tenon
+* Mortise and floating (or loose) tenon
 
 
 
