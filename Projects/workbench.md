@@ -28,9 +28,9 @@ Joints
 
 
 
-|                                                                  Workbench                                                                  |
-|:-------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="35%" src="/media/workbench.jpg" width="45%"/>](https://garlatti.github.io/media/workbench.jpg){:target = "_blank"} | 
+|                                                                  Workbench                                                                   |
+|:--------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="35%" src="/media/Workbench.jpg" width="45%"/>](https://garlatti.github.io/media/Workbench.jpg){:target = "_blank"} | 
 |      
 
 
@@ -42,7 +42,7 @@ Joints
 
 
 
-|                                                                                                                                                                                                                                                 Mortises                                                                                                                                                                                                                                                  |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="35%" src="/media/Workbench_Mortise_1.jpg" width="15%"/>](https://garlatti.github.io/media/Workbench_Mortise_1.jpg){:target = "_blank"}  [<img alt="image" height="25%" src="/media/Workbench_Mortise_2.jpg" width="25%"/>](https://garlatti.github.io/media/BboardWorkbench_Mortise_2.jpg){:target = "_blank"} [<img alt="image" height="25%" src="/media/Workbench_Mortise_3.jpg" width="15%"/>](https://garlatti.github.io/media/Workbench_Mortise_3.jpg){:target = "_blank"} | 
+|                                                                                                                                                                                                                                              Mortises                                                                                                                                                                                                                                               |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="35%" src="/media/Workbench_Mortise_1.jpg" width="15%"/>](https://garlatti.github.io/media/Workbench_Mortise_1.jpg){:target = "_blank"}  [<img alt="image" height="25%" src="/media/Workbench_Mortise_2.jpg" width="25%"/>](https://garlatti.github.io/media/Workbench_Mortise_2.jpg){:target = "_blank"} [<img alt="image" height="25%" src="/media/Workbench_Mortise_3.jpg" width="15%"/>](https://garlatti.github.io/media/Workbench_Mortise_3.jpg){:target = "_blank"} | 
 |      
