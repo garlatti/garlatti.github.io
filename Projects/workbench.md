@@ -15,7 +15,7 @@ Wood
 
 Tools
 * Table saw, router, sanders
-* DYW jigs for mortise
+* DIY jigs for mortise
 
 
 Joints
