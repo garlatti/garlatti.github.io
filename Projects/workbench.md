@@ -32,7 +32,7 @@ Joints
 
 |                                                                  Workbench                                                                   |
 |:--------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="45%" src="/media/Workbench.jpg" width="45%"/>](https://garlatti.github.io/media/Workbench.jpg){:target = "_blank"} | 
+| [<img alt="image" height="55%" src="/media/Workbench.jpg" width="55%"/>](https://garlatti.github.io/media/Workbench.jpg){:target = "_blank"} | 
 |      
 
 
