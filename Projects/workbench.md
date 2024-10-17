@@ -10,7 +10,7 @@ nav_order: 9
 
 # MFT Workbench
 
-This workbench was inspired by the [Flokard's and /Piroky's workbench](https://www.lairdubois.fr/plans/2403-etabli-flokard-piroky-pdf-et-skp-par-swann-wild.html){:target="_blank"}
+This workbench is inspired by the [Flokard's and /Piroky's workbench](https://www.lairdubois.fr/plans/2403-etabli-flokard-piroky-pdf-et-skp-par-swann-wild.html){:target="_blank"}
 
 Wood
 * Dark Red Meranti: wooden tile, 3 butted ply KKK 86x63 for the workbench frame
