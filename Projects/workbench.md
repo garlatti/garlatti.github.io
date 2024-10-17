@@ -30,9 +30,9 @@ Joints
 
 
 
-|                                                                                                                                           Workbench                                                                                                                                            |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="45%" src="/media/Workbench.jpg" width="45%"/>](https://garlatti.github.io/media/Workbench_3.jpg){:target = "_blank"} [<img alt="image" height="45%" src="/media/Workbench_4.jpg" width"45%"/>](https://garlatti.github.io/media/Workbench_4.jpg){:target = "_blank"} | 
+|                                                                                                                                            Workbench                                                                                                                                             |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="45%" src="/media/Workbench_3.jpg" width="45%"/>](https://garlatti.github.io/media/Workbench_3.jpg){:target = "_blank"} [<img alt="image" height="45%" src="/media/Workbench_4.jpg" width"45%"/>](https://garlatti.github.io/media/Workbench_4.jpg){:target = "_blank"} | 
 |      
 
 
