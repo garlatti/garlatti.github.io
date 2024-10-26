@@ -14,6 +14,7 @@ Wood
 * glued laminated beech for the top and the drawer faces
 * Pine for the dresser structure
 * Plywood for the drawers, dresser sides and rear
+* Exotic wood for sliders
 
 Tools
 * Table saw, router, sanders
