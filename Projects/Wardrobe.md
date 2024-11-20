@@ -8,7 +8,7 @@ nav_order: 10
 <img src="../media/Lignarius.png" width="10%" height="10%" align="middle"/>
 </center>
 
-# Wardrobe
+# Wardrobe - ongoing project -
 
 This wardrobe is inspired by the [Hoyez's Wardrobe](https://www.lairdubois.fr/creations/16546-meuble-penderie.html)
 
