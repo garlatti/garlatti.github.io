@@ -29,7 +29,7 @@ Joints
 
 |                                                                  Wardrobe                                                                  |
 |:------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="45%" src="/media/Woadrobe.jpg" width="45%"/>](https://garlatti.github.io/media/Wardrobe.jpg){:target = "_blank"} | 
+| [<img alt="image" height="45%" src="/media/Wardrobe.jpg" width="45%"/>](https://garlatti.github.io/media/Wardrobe.jpg){:target = "_blank"} | 
 |      
 
 
