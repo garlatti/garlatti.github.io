@@ -27,14 +27,14 @@ Joints
 * Dowel
 
 
-|                                                                  Wardrobe                                                                  |
-|:------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="45%" src="/media/Wardrobe.jpg" width="45%"/>](https://garlatti.github.io/media/Wardrobe.jpg){:target = "_blank"} | 
+|                                                                 Wardrobe                                                                  |
+|:-----------------------------------------------------------------------------------------------------------------------------------------:|
+|          [<img alt="image" height="45%" src="/media/Wardrobe.jpg" width="45%"/>](https://garlatti.github.io/media/Wardrobe.jpg)           | 
 |      
 
 
 
-|                                                                  Wardrobe                                                                  |
-|:------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="15%" src="/media/Wardrobe.jpg" width="15%"/>](https://garlatti.github.io/media/Wardrobe.jpg){:target = "_blank"} |
+|                                                        Wardrobe                                                        |
+|:----------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="15%" src="/media/Wardrobe.jpg" width="15%"/>](https://garlatti.github.io/media/Wardrobe.jpg) |
 |    

@@ -25,18 +25,18 @@ compatible 45-degree hook attached,
 
 |                                                                                       French Cleat System  [Reference](https://www.thehandymansdaughter.com/){:target="_blank"}                                                                                       |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="18%" src="https://www.thehandymansdaughter.com/wp-content/uploads/2020/08/french-cleat-hook-together.jpg" width="18%"/>](https://www.thehandymansdaughter.com/wp-content/uploads/2020/08/french-cleat-hook-together.jpg){:target= "_blank"} | 
+| [<img alt="image" height="18%" src="https://www.thehandymansdaughter.com/wp-content/uploads/2020/08/french-cleat-hook-together.jpg" width="18%"/>](https://www.thehandymansdaughter.com/wp-content/uploads/2020/08/french-cleat-hook-together.jpg) | 
 
  Some pictures of the french cleat system in my workshop. 
 
 |                                                                         My French Cleat System                                                                         |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|   [<img alt="image" height="55%" src="/media/Organisation_Globale.jpg" width="55%"/>](https://garlatti.github.io/media/Organisation_Globale.jpg){:target = "_blank"}   | 
-| [<img alt="image" height="55%" src="/media/Organisation_Globale_1.jpg" width="55%"/>](https://garlatti.github.io/media/Organisation_Globale_1.jpg){:target = "_blank"} | 
+|             [<img alt="image" height="55%" src="/media/Organisation_Globale.jpg" width="55%"/>](https://garlatti.github.io/media/Organisation_Globale.jpg)             | 
+| [<img alt="image" height="55%" src="/media/Organisation_Globale_1.jpg" width="55%"/>](https://garlatti.github.io/media/Organisation_Globale_1.jpg) | 
 
 Two workbenches are used: 
 
-[<img alt="image" height="55%" src="/media/Organisation_Globale_2.jpg" width="55%"/>](https://garlatti.github.io/media/Organisation_Globale_2.jpg){:target = "_blank"}
+[<img alt="image" height="55%" src="/media/Organisation_Globale_2.jpg" width="55%"/>](https://garlatti.github.io/media/Organisation_Globale_2.jpg)
 
 * The first one - on the left - is a Machine Table MASTER cut 2600 - Wolfcraft. It is a  multifunctional machine table
   

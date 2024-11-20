@@ -12,8 +12,8 @@ nav_order: 1
 # Handled Power Saw Holder
 
 
-|                                                                     Power Saw Holder                                                                     |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="45%" src="/media/Power_Saw_Holder.jpg" width="45%"/>](https://garlatti.github.io/media/Power_Saw_Holder.jpg){:target="_blank"} | 
+|                                                            Power Saw Holder                                                             |
+|:---------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="45%" src="/media/Power_Saw_Holder.jpg" width="45%"/>](https://garlatti.github.io/media/Power_Saw_Holder.jpg)  | 
 
 

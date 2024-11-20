@@ -26,9 +26,9 @@ Four different jigs, three from  Trend Tool Technology and the fourth one from C
        as an anti-tilt device when used with routers that can accept Euro style 
        guide bushes (a special guide bush ref GB40/B is required).
 
-|                                                                                                                                                                                                                                                                                 Combination Router Base                                                                                                                                                                                                                                                                                  |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="25%" src="/media/Trend Combination Router Base.jpg" width="25%"/>](https://garlatti.github.io/media/Trend%20Combination%20Router%20Base.jpg){:target = "_blank"} [<img alt="image" height="25%" src="/media/Trend Combination Router Base_1.jpg" width="25%"/>](https://garlatti.github.io/media/Trend%20Combination%20Router%20Base_1.jpg){:target = "_blank"} [<img alt="image" height="25%" src="/media/Trend Combination Router Base_2.jpg" width="25%"/>](https://garlatti.github.io/media/Trend%20Combination%20Router%20Base_2.jpg){:target = "_blank"} |
+|                                                                                                                                                                                                                                                                        Combination Router Base                                                                                                                                                                                                                                                                        |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="25%" src="/media/Trend Combination Router Base.jpg" width="25%"/>](https://garlatti.github.io/media/Trend%20Combination%20Router%20Base.jpg)  [<img alt="image" height="25%" src="/media/Trend Combination Router Base_1.jpg" width="25%"/>](https://garlatti.github.io/media/Trend%20Combination%20Router%20Base_1.jpg) [<img alt="image" height="25%" src="/media/Trend Combination Router Base_2.jpg" width="25%"/>](https://garlatti.github.io/media/Trend%20Combination%20Router%20Base_2.jpg) |
  
 * The second one is the Varijig system. It is an adjustable frame and guide for use with a router. It is composed 
   of four lengths of 700mm extrusion with dual metric/imperial measuring scales - a working area 600mm x 600mm.
@@ -36,9 +36,9 @@ Four different jigs, three from  Trend Tool Technology and the fourth one from C
  * Allows a router to cut recesses, slots, face panel moulds etc. 
  * Can also be used to create panel doors for kitchens etc.
 
-|                                                                     Trend VariJig                                                                      |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="25%" src="/media/Trend variJig.jpg" width="25%"/>](https://garlatti.github.io/media/Trend%20variJig.jpg){:target = "_blank"} |
+|                                                            Trend VariJig                                                            |
+|:-----------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="25%" src="/media/Trend variJig.jpg" width="25%"/>](https://garlatti.github.io/media/Trend%20variJig.jpg)  |
 
 
 * The third one is a Mortise and Tenon Jig Euro (Metric Size), enabling mortise & tenons and dowel joints 

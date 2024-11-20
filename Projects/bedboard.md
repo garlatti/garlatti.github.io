@@ -21,7 +21,7 @@ Joints
 * Rabbets and Full housing joint
 
 
-|                                                                                                                                         Bedboards                                                                                                                                          |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="35%" src="/media/Bedboard.jpg" width="35%"/>](https://garlatti.github.io/media/Bedboard.jpg){:target = "_blank"}  [<img alt="image" height="25%" src="/media/Bedboard_1.jpg" width="25%"/>](https://garlatti.github.io/media/Bedboard_1.jpg){:target = "_blank"} | 
-|                                                                       [<img alt="image" height="25%" src="/media/Bedboard_2.jpg" width="25%"/>](https://garlatti.github.io/media/Bedboard_2.jpg)                                                                       | 
+|                                                                                                                      Bedboards                                                                                                                       |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="35%" src="/media/Bedboard.jpg" width="35%"/>](https://garlatti.github.io/media/Bedboard.jpg)   [<img alt="image" height="25%" src="/media/Bedboard_1.jpg" width="25%"/>](https://garlatti.github.io/media/Bedboard_1.jpg)  | 
+|                                                              [<img alt="image" height="25%" src="/media/Bedboard_2.jpg" width="25%"/>](https://garlatti.github.io/media/Bedboard_2.jpg)                                                              | 

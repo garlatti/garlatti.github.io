@@ -17,11 +17,11 @@ Two types of jigs are used
 
 |                                                                                                                                                           Handled Power Saw Jig                                                                                                                                                           |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="25%" src="/media/Handled Power Saw Jig.jpg" width="25%"/>](https://garlatti.github.io/media/Handled%20Power%20Saw%20Jig.jpg){:target = "_blank"} |
+| [<img alt="image" height="25%" src="/media/Handled Power Saw Jig.jpg" width="25%"/>](https://garlatti.github.io/media/Handled%20Power%20Saw%20Jig.jpg) |
  
 
 
 | Guide Rail FKS 145                                                                                                                                                                                                                                                                                                                                         |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [<img alt="image" height="20%" src="/media/Wolfcraft FKS 145 Jig.jpg" width="20%"/>](https://garlatti.github.io/media/Wolfcraft%20FKS%20145%20Jig.jpg){:target = "_blank"}  [<img alt="image" height="20%" src="/media/Wolfcraft FKS 145 Jig_1.jpg" width="20%"/>](https://garlatti.github.io/media/Wolfcraft%20FKS%20145%20Jig_1.jpg){:target = "_blank"} |
+| [<img alt="image" height="20%" src="/media/Wolfcraft FKS 145 Jig.jpg" width="20%"/>](https://garlatti.github.io/media/Wolfcraft%20FKS%20145%20Jig.jpg)  [<img alt="image" height="20%" src="/media/Wolfcraft FKS 145 Jig_1.jpg" width="20%"/>](https://garlatti.github.io/media/Wolfcraft%20FKS%20145%20Jig_1.jpg) |
 

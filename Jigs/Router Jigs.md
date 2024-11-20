@@ -19,10 +19,10 @@ Two DIY router jigs are used
 
 |                                                                Rabbet Router Jig                                                                 |
 |:------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="25%" src="/media/Router_Jigs.jpg" width="25%"/>](https://garlatti.github.io/media/Router_Jigs.jpg){:target = "_blank"} |
+| [<img alt="image" height="25%" src="/media/Router_Jigs.jpg" width="25%"/>](https://garlatti.github.io/media/Router_Jigs.jpg) |
  
 In the complex router jig, To make different types of joints, you have to change the jigs on the second picture. 
 
 | Complex router Jigs                                                                                                                                                                                                                                                                                        |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [<img alt="image" height="20%" src="/media/Router_Jigs_1.jpg" width="20%"/>](https://garlatti.github.io/media/Router_Jigs_1.jpg){:target = "_blank"}  [<img alt="image" height="20%" src="/media/Router_Jigs_2.jpg" width="20%"/>](https://garlatti.github.io/media/Router_Jigs_2.jpg){:target = "_blank"} |
+| [<img alt="image" height="20%" src="/media/Router_Jigs_1.jpg" width="20%"/>](https://garlatti.github.io/media/Router_Jigs_1.jpg)  [<img alt="image" height="20%" src="/media/Router_Jigs_2.jpg" width="20%"/>](https://garlatti.github.io/media/Router_Jigs_2.jpg) |

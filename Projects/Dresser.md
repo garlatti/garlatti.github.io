@@ -24,11 +24,11 @@ Joints
 * Mortise & Tenon for the dresser structure
 * Rabbets for drawers and dresser sides & rear, Full housing joint
 
-|                                                                                                                                       Dresser parts                                                                                                                                       |
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  [<img alt="image" height="25%" src="/media/Dresser.jpg" width="25%"/>](https://garlatti.github.io/media/Dresser.jpg){:target = "_blank"}  [<img alt="image" height="25%" src="/media/Dresser_2.jpg" width="25%"/>](https://garlatti.github.io/media/Dresser_2.jpg){:target = "_blank"}   | 
-| [<img alt="image" height="25%" src="/media/Dresser_3.jpg" width="25%"/>](https://garlatti.github.io/media/Dresser_3.jpg){:target = "_blank"} [<img alt="image" height="25%" src="/media/Dresser_4.jpg" width="25%"/>](https://garlatti.github.io/media/Dresser_4.jpg){:target = "_blank"} | 
+|                                                                                                                   Dresser parts                                                                                                                    |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  [<img alt="image" height="25%" src="/media/Dresser.jpg" width="25%"/>](https://garlatti.github.io/media/Dresser.jpg)   [<img alt="image" height="25%" src="/media/Dresser_2.jpg" width="25%"/>](https://garlatti.github.io/media/Dresser_2.jpg)   | 
+| [<img alt="image" height="25%" src="/media/Dresser_3.jpg" width="25%"/>](https://garlatti.github.io/media/Dresser_3.jpg)  [<img alt="image" height="25%" src="/media/Dresser_4.jpg" width="25%"/>](https://garlatti.github.io/media/Dresser_4.jpg) | 
 
-|                                                                     Dresser in Bedroom                                                                     |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|  
-| [<img alt="image" height="35%" src="/media/Dresser_0.jpg" width="35%"/>](https://garlatti.github.io/media/Dresser_0.jpg){:target = "_blank"} | 
+|                                                    Dresser in Bedroom                                                     |
+|:-------------------------------------------------------------------------------------------------------------------------:|  
+| [<img alt="image" height="35%" src="/media/Dresser_0.jpg" width="35%"/>](https://garlatti.github.io/media/Dresser_0.jpg)  | 
