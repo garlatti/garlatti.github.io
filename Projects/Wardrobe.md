@@ -7,7 +7,7 @@ nav_order: 10
 <img src="../media/Lignarius.png" width="10%" height="10%" align="middle"/>
 </center>
 
-# MFT Workbench
+# Wardrobe
 
 This workbench is inspired by the [Hoyez's Wardrobe](https://www.lairdubois.fr/creations/16546-meuble-penderie.html){:target="_blank"}
 
@@ -27,14 +27,14 @@ Joints
 * Dowel
 
 
-|                                                                                                                                             Workbench                                                                                                                                             |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="45%" src="/media/Workbench_3.jpg" width="45%"/>](https://garlatti.github.io/media/Workbench_3.jpg){:target = "_blank"} [<img alt="image" height="45%" src="/media/Workbench_4.jpg" width="45%"/>](https://garlatti.github.io/media/Workbench_4.jpg){:target = "_blank"} | 
+|                                                                                                                                          Workbench                                                                                                                                          |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="45%" src="/media/Woadrobe.jpg" width="45%"/>](https://garlatti.github.io/media/Wardrobe.jpg){:target = "_blank"} | 
 |      
 
 
 
 |                                                                                                                                                                                                                                                                                                                                                                                                     DiY Jigs, floating Tenons and Mortises                                                                                                                                                                                                                                                                                                                                                                                                     |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="15%" src="/media/Workbench_DIY_Jigs.jpg" width="15%"/>](https://garlatti.github.io/media/Workbench_DIY_Jigs.jpg){:target = "_blank"}  [<img alt="image" height="15%" src="/media/Workbench_Floating_Tenon.jpg" width="15%"/>](https://garlatti.github.io/media/Workbench_Floating_Tenon.jpg){:target = "_blank"} [<img alt="image" height="15%" src="/media/Workbench_Mortise_1.jpg" width="15%"/>](https://garlatti.github.io/media/Workbench_Mortise_1.jpg){:target = "_blank"}  [<img alt="image" height="15%" src="/media/Workbench_Mortise_2.jpg" width="15%"/>](https://garlatti.github.io/media/Workbench_Mortise_2.jpg){:target = "_blank"} [<img alt="image" height="15%" src="/media/Workbench_Mortise_3.jpg" width="15%"/>](https://garlatti.github.io/media/Workbench_Mortise_3.jpg){:target = "_blank"} | 
+| [<img alt="image" height="15%" src="/media/Wardrobe.jpg" width="15%"/>](https://garlatti.github.io/media/Wardrobe.jpg){:target = "_blank"}  |
 |    
