@@ -9,7 +9,7 @@ nav_order: 10
 
 # Wardrobe
 
-This workbench is inspired by the [Hoyez's Wardrobe](https://www.lairdubois.fr/creations/16546-meuble-penderie.html){:target="_blank"}
+This wardrobe is inspired by the [Hoyez's Wardrobe](https://www.lairdubois.fr/creations/16546-meuble-penderie.html)
 
 Wood
 * Fir Wood
