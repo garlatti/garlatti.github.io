@@ -25,7 +25,7 @@ Tools
 
 
 Joints
-* Dowel
+* Dowel joint
 
 
 |                                                                 Wardrobe                                                                  |
