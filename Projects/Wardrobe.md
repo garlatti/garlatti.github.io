@@ -13,7 +13,7 @@ nav_order: 10
 This wardrobe is inspired by the [Hoyez's Wardrobe](https://www.lairdubois.fr/creations/16546-meuble-penderie.html)
 
 Wood
-* Fir Wood
+* Pine
 * Valchromat: standard MDF stained in the mass for the tray
 * Plywood for the drawer
 
