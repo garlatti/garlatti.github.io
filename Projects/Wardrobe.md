@@ -13,7 +13,7 @@ nav_order: 10
 This wardrobe is inspired by the [Hoyez's Wardrobe](https://www.lairdubois.fr/creations/16546-meuble-penderie.html). The wardrobe has a drawer at the bottom and a shelve at the top. The two are joined by cleats, inserted nuts and bolts
 
 Wood
-* Fir Wood
+* Pine Wood
 * Valchromat: standard MDF stained in the mass for the tray
 * Plywood for the drawer
 
