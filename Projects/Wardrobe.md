@@ -10,7 +10,7 @@ nav_order: 10
 
 # Wardrobe - ongoing project -
 
-This wardrobe is inspired by the [Hoyez's Wardrobe](https://www.lairdubois.fr/creations/16546-meuble-penderie.html)
+This wardrobe is inspired by the [Hoyez's Wardrobe](https://www.lairdubois.fr/creations/16546-meuble-penderie.html). The wardrobe has a drawer at the bottom and a shelf at the top. The two are joined by cleats, inserted nuts and bolts
 
 Wood
 * Fir Wood
@@ -25,7 +25,8 @@ Tools
 
 
 Joints
-* Dowel
+* Dowel for the drawer body and the top shelve
+* inserted nuts and bolts to join drawer, shelve and cleats. 
 
 
 |                                                                 Wardrobe                                                                  |
@@ -35,7 +36,7 @@ Joints
 
 
 
-|                                                        Wardrobe                                                        |
-|:----------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="15%" src="/media/Wardrobe.jpg" width="15%"/>](https://garlatti.github.io/media/Wardrobe.jpg) |
+|                                                                                                                                                                                                                              Drawer Body                              Top Shelve                                                        Wheels                                                                                                                                                                                                                              |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="15%" src="/media/Wardrobe_Drawer_Body.jpg" width="15%"/>](https://garlatti.github.io/media/Wardrobe_Drawer_Body.jpg)  [<img alt="image" height="15%" src="/media/Wardrobe_Top_Shelve.jpg" width="15%"/>](https://garlatti.github.io/media/Wardrobe_Top_Shelve.jpg)   [<img alt="image" height="15%" src="/media/Wardrobe_Cleats.jpg" width="15%"/>](https://garlatti.github.io/media/Wardrobe_Cleats.jpg)   [<img alt="image" height="15%" src="/media/Wardrobe_Wheelss.jpg" width="15%"/>](https://garlatti.github.io/media/Wardrobe_Wheels.jpg) | 
 |    
