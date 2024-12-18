@@ -37,7 +37,7 @@ Joints
 
 
 
-|                                                            Tree base with "trunk"                                                             |                                                          Tree Branches                                                           |                                                                Tree Element finishing                                                                |
+|                                                            Tree base with "trunk"                                                             |                                                          Tree Branches                                                           |                                                               Tree Element finishing: linseed oil                                                               |
 |:---------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------:|
 | [<img alt="image" height="45%" src="/media/Tree_Base_and_Trunk.jpg" width="45%"/>](https://garlatti.github.io/media/Tree_Base_and_Trunk.jpg) | [<img alt="image" height="45%" src="/media/Tree_Branches.jpg" width="45%"/>](https://garlatti.github.io/media/Tree_Branches.jpg) | [<img alt="image" height="35%" src="/media/Tree_elements_finishing.jpg" width="35%"/>](https://garlatti.github.io/media/Tree_elements_finishing.jpg) |
 |    
