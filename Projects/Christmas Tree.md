@@ -1,3 +1,0 @@
-christmas tree 
-
-pine woods
