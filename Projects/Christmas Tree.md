@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wardrobe
+title: Christmas Tree
 parent: Projects
 nav_order: 11
 ---
@@ -37,7 +37,7 @@ Joints
 
 
 
-|                                                            Tree base with "trunk"                                                             |                                                          Tree Branches                                                           |                                                       Tree Element finishing                                                        |
-|:---------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="45%" src="/media/Tree_Base_and_Trunk.jpg" width="45%"/>](https://garlatti.github.io/media/Tree_Base_and_Trunk.jpg) | [<img alt="image" height="45%" src="/media/Tree_Branches.jpg" width="45%"/>](https://garlatti.github.io/media/Tree_Branches.jpg) |   [<img alt="image" height="35%" src="/media/Tree_Branches" width="35%"/>](https://garlatti.github.io/media/Tree_Branches.jpg) |
+|                                                            Tree base with "trunk"                                                             |                                                          Tree Branches                                                           |                                                                Tree Element finishing                                                                |
+|:---------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="45%" src="/media/Tree_Base_and_Trunk.jpg" width="45%"/>](https://garlatti.github.io/media/Tree_Base_and_Trunk.jpg) | [<img alt="image" height="45%" src="/media/Tree_Branches.jpg" width="45%"/>](https://garlatti.github.io/media/Tree_Branches.jpg) | [<img alt="image" height="35%" src="/media/Tree_elements_finishing.jpg" width="35%"/>](https://garlatti.github.io/media/Tree_elements_finishing.jpg) |
 |    
