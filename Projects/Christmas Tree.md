@@ -10,7 +10,7 @@ nav_order: 11
 
 # Christmas Tree
 
-This Christmas Tree is classical one, composed of a threaded rod as trunk, two butterfly nuts, an insert nut, a tree base, a five-pointed star and wooden branches
+This Christmas Tree is a classical one, composed of a threaded rod as trunk, two butterfly nuts, an insert nut, a tree base, a five-pointed star and wooden branches
 
 Wood
 * Branches: Pine Wood
@@ -39,5 +39,5 @@ Joints
 
 |                                                            Tree base with "trunk"                                                            |                                                          Tree Branches                                                           |                                                               Tree Element finishing: linseed oil                                                               |
 |:--------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="40%" src="/media/Tree_Base_and_Trunk.jpg" width="40%"/>](https://garlatti.github.io/media/Tree_Base_and_Trunk.jpg) | [<img alt="image" height="40%" src="/media/Tree_Branches.jpg" width="40%"/>](https://garlatti.github.io/media/Tree_Branches.jpg) | [<img alt="image" height="35%" src="/media/Tree_elements_finishing.jpg" width="35%"/>](https://garlatti.github.io/media/Tree_elements_finishing.jpg) |
+| [<img alt="image" height="45%" src="/media/Tree_Base_and_Trunk.jpg" width="40%"/>](https://garlatti.github.io/media/Tree_Base_and_Trunk.jpg) | [<img alt="image" height="45%" src="/media/Tree_Branches.jpg" width="40%"/>](https://garlatti.github.io/media/Tree_Branches.jpg) | [<img alt="image" height="45%" src="/media/Tree_elements_finishing.jpg" width="45%"/>](https://garlatti.github.io/media/Tree_elements_finishing.jpg) |
 |    
