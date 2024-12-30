@@ -5,7 +5,7 @@ nav_order: 1
 has_children: true
 ---
 <center>
-<img src="media/Lignarius.png" width="10%" height="10%" align="middle"/>
+<img src="media/WWW_logo.png" width="10%" height="10%" align="middle"/>
 </center>
 
 #  Home page
