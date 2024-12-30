@@ -5,7 +5,7 @@ parent: Home Page
 nav_order: 1
 ---
 <center>
-<img src="media/Lignarius.png" width="10%" height="10%" align="middle"/>
+<img src="media/WWW_logo.png" width="20%" height="20%" align="middle"/>
 </center>
 
 #  Github Curriculum Vitae
