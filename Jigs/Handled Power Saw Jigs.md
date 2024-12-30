@@ -19,7 +19,7 @@ Two types of jigs are used
  
 
 
-| Guide Rail FKS 145                                                                                                                                                                                                                                                                                                                                         |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [<img alt="image" height="20%" src="/media/Wolfcraft FKS 145 Jig.jpg" width="20%"/>](https://garlatti.github.io/media/Wolfcraft%20FKS%20145%20Jig.jpg)  [<img alt="image" height="20%" src="/media/Wolfcraft FKS 145 Jig_1.jpg" width="20%"/>](https://garlatti.github.io/media/Wolfcraft%20FKS%20145%20Jig_1.jpg) |
+|                                                                                                                                                       Guide Rail FKS 145                                                                                                                                                       |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|       [<img alt="image" height="20%" src="/media/Wolfcraft FKS 145 Jig.jpg" width="20%"/>](https://garlatti.github.io/media/Wolfcraft%20FKS%20145%20Jig.jpg)  [<img alt="image" height="20%" src="/media/Wolfcraft FKS 145 Jig_1.jpg" width="20%"/>](https://garlatti.github.io/media/Wolfcraft%20FKS%20145%20Jig_1.jpg)       |
 

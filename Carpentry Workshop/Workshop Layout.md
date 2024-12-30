@@ -32,9 +32,11 @@ compatible 45-degree hook attached,
 |             [<img alt="image" height="55%" src="/media/Organisation_Globale.jpg" width="55%"/>](https://garlatti.github.io/media/Organisation_Globale.jpg)             | 
 | [<img alt="image" height="55%" src="/media/Organisation_Globale_1.jpg" width="55%"/>](https://garlatti.github.io/media/Organisation_Globale_1.jpg) | 
 
-Two workbenches are used: 
 
-[<img alt="image" height="55%" src="/media/Organisation_Globale_2.jpg" width="55%"/>](https://garlatti.github.io/media/Organisation_Globale_2.jpg)
+
+|                                                                        Two workbenches                                                                         |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|       [<img alt="image" height="55%" src="/media/Organisation_Globale_2.jpg" width="55%"/>](https://garlatti.github.io/media/Organisation_Globale_2.jpg)       | 
 
 * The first one - on the left - is a Machine Table MASTER cut 2600 - Wolfcraft. It is a  multifunctional machine table
   
