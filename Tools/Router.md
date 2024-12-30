@@ -4,9 +4,7 @@ title: Router
 parent: Tools
 nav_order: 4
 ---
-<center>
-<img src="media/WWW_logo.png" width="20%" height="20%" align="middle"/>
-</center>
+<p align="center"> <img src="../media/www_logo.png" width="20%" height="20%"/> </p>
 
 My first woodworking machine : a Router Bosch POF 1400 ACE. 
 

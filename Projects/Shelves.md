@@ -4,9 +4,7 @@ title: Shelves
 parent: Projects
 nav_order: 6
 ---
-<center>
-<img src="../media/Lignarius.png" width="10%" height="10%" align="middle"/>
-</center>
+<p align="center"> <img src="../media/www_logo.png" width="20%" height="20%"/> </p>
 
 The shelves were designed to store toilet paper and cleaning product. The shelves
 are hanging by means of a french cleat system. 
