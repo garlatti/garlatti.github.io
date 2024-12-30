@@ -5,9 +5,7 @@ nav_order: 2
 has_children: true
 # permalink: /Projects/
 ---
-<center>
-<img src="../media/Lignarius.png" width="10%" height="10%" align="middle"/>
-</center>
+<p align="center"> <img src="../media/www_logo.png" width="20%" height="20%"/> </p>
 
 # WoodWorking Projects
 

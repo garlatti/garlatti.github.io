@@ -3,10 +3,13 @@ layout: default
 title: Tools
 nav_order: 3
 has_children: true
-
 ---
 
-<p align="center"> <img src="media/www_logo.png" width="20%" height="20%" /> </p>
+<p align="center">
+    <img src="../media/www_logo.png"
+         width="20%"
+         height="20%" /> 
+</p>
 
 
 # WoodWorking Tools

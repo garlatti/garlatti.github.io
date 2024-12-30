@@ -4,9 +4,9 @@ title: Handled Power Saw
 parent: Tools
 nav_order: 6
 ---
-<center>
-<img src="media/WWW_logo.png" width="20%" height="20%" align="middle"/>
-</center>
+
+<p align="center"> <img src="../media/www_logo.png" width="20%" height="20%"/> </p>
+
 
 The Handled Power Saw, Makita
 
