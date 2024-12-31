@@ -8,7 +8,7 @@ title: The West Wood Workshop - www -
 
 
 # Set a path/url to a favicon that will be displayed by the browser
-favicon_ico: "/media/Lignarius.ico"
+favicon_ico: "/media/www_logo.ico"
 
 description: Markdown + Jekyll + "Just the Docs" jekyll theme + GitHub Pages
 
