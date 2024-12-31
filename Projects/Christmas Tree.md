@@ -28,9 +28,9 @@ Joints
 * insert nuts, two butterfly nuts bolts and a threaded rod to join Circular tree base, teh tree branches and the five-pointed star
 
 
-|                                                           Christmas Tree                                                           |
-|:----------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="30%" src="/media/Christmas_Tree.jpg" width="30%"/>](https://garlatti.github.io/media/Christmas_Tree.jpg) | 
+|                                                                                                                            Christmas Tree                                                                                                                            |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="30%" src="/media/Christmas_Tree.jpg" width="30%"/>](https://garlatti.github.io/media/Christmas_Tree.jpg)  [<img alt="image" height="30%" src="/media/sapin_decore.jpg" width="30%"/>](https://garlatti.github.io/media/sapin_decore.jpg) | 
 |      
 
 
