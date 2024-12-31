@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Workbench
+title: New Workbench
 parent: Projects
 nav_order: 9
 ---
