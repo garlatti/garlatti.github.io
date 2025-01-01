@@ -12,4 +12,4 @@ Several Cordless Drills/drivers : Makita
 
 |                                                             Makita DDF482                                                              |
 |:---------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="25%" src="/media/Makita.jpg" width="50%"/>](https://garlatti.github.io/media/Makita.jpg){:target = "_blank"}  | 
+| [<img alt="image" height="25%" src="/media/Makita.jpg" width="50%"/>](https://garlatti.github.io/media/Makita.jpg) | 
