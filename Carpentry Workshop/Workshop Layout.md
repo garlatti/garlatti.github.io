@@ -21,7 +21,7 @@ angle cut. These angled cuts allow you to hook on accessories that have a
 compatible 45-degree hook attached, 
 
 
-|                                                                                       French Cleat System  [Reference](https://www.thehandymansdaughter.com/){:target="_blank"}                                                                                       |
+|                                                                                       French Cleat System  [Reference](https://www.thehandymansdaughter.com/)                                                                                      |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | [<img alt="image" height="18%" src="https://www.thehandymansdaughter.com/wp-content/uploads/2020/08/french-cleat-hook-together.jpg" width="18%"/>](https://www.thehandymansdaughter.com/wp-content/uploads/2020/08/french-cleat-hook-together.jpg) | 
 
@@ -34,9 +34,9 @@ compatible 45-degree hook attached,
 
 
 
-|                                                                        Two workbenches                                                                         |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|       [<img alt="image" height="55%" src="/media/Organisation_Globale_2.jpg" width="55%"/>](https://garlatti.github.io/media/Organisation_Globale_2.jpg)       | 
+|                                                               First Two Workbenches                                          |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="55%" src="/media/Organisation_Globale_2.jpg" width="55%"/>](https://garlatti.github.io/media/Organisation_Globale_2.jpg) | 
 
 * The first one - on the left - is a Machine Table MASTER cut 2600 - Wolfcraft. It is a  multifunctional machine table
   
@@ -50,4 +50,14 @@ compatible 45-degree hook attached,
 The next step is to design and build a "true" modern workbench. 
 
 The two workbenches are put on a tray with castors to move them easily 
+and to get the right height - the same one for the two. A new workbench has been designed and built recently. 
+
+
+|                                                               Workbenches                                                               |
+|:---------------------------------------------------------------------------------------------------------------------------------------:|
+|  [<img alt="image" height="55%" src="/media/New_Workbenches.jpg" width="55%"/>](https://garlatti.github.io/media/New_Workbenches.jpg)   | 
+
+* In the above picture, the DIY MFT Workbench is inspired by the [Flokard's and /Piroky's workbench](https://www.lairdubois.fr/plans/2403-etabli-flokard-piroky-pdf-et-skp-par-swann-wild.html). More details are given the project "New Workbench"
+
+One workbench is on a tray with castors and the other one is on castors to move them easily 
 and to get the right height - the same one for the two. 
