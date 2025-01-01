@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Handled Power Saw
+title: Cordless Drills / Drivers
 parent: Tools
 nav_order: 6
 ---
