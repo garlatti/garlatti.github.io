@@ -6,7 +6,7 @@ has_children: true
 ---
 
 
-<p align="center"> <img src="media/www-logo-2.png" width="20%" height="20%"/> </p>
+<p align="center"> <img src="media/www_logo.png" width="20%" height="20%"/> </p>
 
 #  The West Wood Workshop
 
