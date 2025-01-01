@@ -10,6 +10,6 @@ nav_order: 6
 Several Cordless Drills/drivers : Makita
 
 
-|                                                             Makita HS7601K                                                              |
+|                                                             Makita DDF482                                                              |
 |:---------------------------------------------------------------------------------------------------------------------------------------:|
 | [<img alt="image" height="25%" src="/media/Makita.jpg" width="50%"/>](https://garlatti.github.io/media/Makita.jpg){:target = "_blank"}  | 
