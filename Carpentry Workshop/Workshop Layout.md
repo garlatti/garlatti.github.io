@@ -50,14 +50,15 @@ compatible 45-degree hook attached,
 The next step is to design and build a "true" modern workbench. 
 
 The two workbenches are put on a tray with castors to move them easily 
-and to get the right height - the same one for the two. A new workbench has been designed and built recently. 
+and to get the right height - the same one for the two. 
+
+A new workbench has been designed and built recently - shown below. 
+The DIY MFT Workbench is inspired by the [Flokard's and /Piroky's workbench](https://www.lairdubois.fr/plans/2403-etabli-flokard-piroky-pdf-et-skp-par-swann-wild.html). One workbench is on a tray with castors and the other one is on castors to move them easily 
+and to get the right height - the same one for the two. More details are given in the project "New Workbench". 
 
 
 |                                                               Workbenches                                                               |
 |:---------------------------------------------------------------------------------------------------------------------------------------:|
 |  [<img alt="image" height="55%" src="/media/New_Workbenches.jpg" width="55%"/>](https://garlatti.github.io/media/New_Workbenches.jpg)   | 
 
-* In the above picture, the DIY MFT Workbench is inspired by the [Flokard's and /Piroky's workbench](https://www.lairdubois.fr/plans/2403-etabli-flokard-piroky-pdf-et-skp-par-swann-wild.html). More details are given the project "New Workbench"
 
-One workbench is on a tray with castors and the other one is on castors to move them easily 
-and to get the right height - the same one for the two. 
