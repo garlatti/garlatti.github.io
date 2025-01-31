@@ -24,8 +24,8 @@ Tools
 
 
 Joints
-* Dowel for the drawer body and the top shelve
-* inserted nuts and bolts to join drawer, shelve and cleats
+* Dowel for the drawer body and the top shelve 
+* Round head square collar bolts, nuts and washers to join drawer, shelve and cleats
 
 
 |                                                                 Wardrobe                                                                  |
