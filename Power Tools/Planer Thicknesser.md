@@ -24,7 +24,7 @@ My third planer thicknesser.
 
 Tha planer thicknesser enhancement  
 
-|                                                                    Metabo HC 260                                                                     |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  [<img alt="image" height="80%" src="/media/Planer_Thicknesser_Enhancement.jpg" width="80%"/>](https://garlatti.github.io/media/Planer_Thicknesser_Enhancement.jpg){:target = "_blank"}   | 
+|                                                                                     Metabo HC 260                                                                                      |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="35%" src="/media/Planer_Thicknesser_Enhancement.jpg" width="35%"/>](https://garlatti.github.io/media/Planer_Thicknesser_Enhancement.jpg){:target = "_blank"} | 
 
