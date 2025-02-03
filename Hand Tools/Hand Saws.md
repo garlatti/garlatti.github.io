@@ -10,8 +10,8 @@ nav_order: 3
 Set of Hand Saws
 
 
-|                                                           Wolfcraft_Ryoba_Double-edged_Saw                                                         |                                                        Stanley Wood Tenon Saw                                                        |
-|:----------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------:|
+|                                                                    Wolfcraft Ryoba Double-edged Saw                                                                    |                                                        Stanley Wood Tenon Saw                                                        |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------:|
 | [<img alt="image" height="50%" src="/media/Wolfcraft_Ryoba_Double-edged_Saw.jpg" width="50%"/>](https://garlatti.github.io/media/Wolfcraft_Ryoba_Double-edged_Saw.jpg) | [<img alt="image" height="50%" src="/media/Stanley_Wood_Tenon_Saw.jpg" width="50%"/>](https://garlatti.github.io/media/Stanley_Wood_Tenon_Saw.jpg) |
 
 
