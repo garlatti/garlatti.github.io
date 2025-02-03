@@ -12,6 +12,6 @@ nav_order: 5
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | [<img alt="image" height="25%" src="/media/Some_Clamps.jpg" width="25%"/>](https://garlatti.github.io/media/Some_Clamps.jpg) [<img alt="image" height="25%" src="/media/Clamps_1.jpg" width="25%"/>](https://garlatti.github.io/media/Clamps_1.jpg) |
 |                                                                                                                                                                                                                                                     |
-|   [<img alt="image" height="25%" src="/media/Clamps_2.jpg" width="25%"/>](https://garlatti.github.io/media/Clamps_2.jpg)   [<img alt="image" height="25%" src="/media/Clamps_3.jpg" width="25%"/>](https://garlatti.github.io/media/Clamps_3.jpg)   |
+|   [<img alt="image" height="25%" src="/media/Clamps_2.jpg" width="25%"/>](https://garlatti.github.io/media/Clamps_2.jpg)   [<img alt="image" height="15%" src="/media/Clamps_3.jpg" width="15%"/>](https://garlatti.github.io/media/Clamps_3.jpg)   |
 
 
