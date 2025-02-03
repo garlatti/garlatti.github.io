@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cordless Drills Drivers
-parent: Tools
+parent: Power Tools
 nav_order: 6
 ---
 

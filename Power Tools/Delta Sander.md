@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Delta Sander
-parent: Tools
+parent: Power Tools
 nav_order: 9
 ---
 

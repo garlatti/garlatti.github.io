@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Orbital Sander
-parent: Tools
+parent: Power Tools
 nav_order: 8
 ---
 

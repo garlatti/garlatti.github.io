@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tools
+title: Power Tools
 nav_order: 3
 has_children: true
 ---

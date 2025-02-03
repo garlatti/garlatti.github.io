@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Drill Press
-parent: Tools
+parent: Power Tools
 nav_order: 2
 ---
 

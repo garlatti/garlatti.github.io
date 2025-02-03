@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sheet Orbital Finishing Sander
-parent: Tools
+parent: Power Tools
 nav_order: 10
 ---
 

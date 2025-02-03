@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Planer Thicknesser
-parent: Tools
+parent: Power Tools
 nav_order: 1
 ---
 
