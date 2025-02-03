@@ -18,6 +18,13 @@ The first planer thicknesser. I had two Scheppach machines and they were broken 
 
 My third planer thicknesser.  
 
-| Metabo HC 260                                                                                                                                      |
-|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| [<img alt="image" height="80%" src="/media/Metabo_HC260.jpg" width="80%"/>](https://garlatti.github.io/media/Metabo_HC260.jpg){:target = "_blank"} |  [<img alt="image" height="80%" src="/media/Metabo_HC260_1.jpg" width="80%"/>](https://garlatti.github.io/media/Metabo_HC260_1.jpg){:target = "_blank"}  | 
+|                                                                    Metabo HC 260                                                                     |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  [<img alt="image" height="80%" src="/media/Metabo_HC260.jpg" width="80%"/>](https://garlatti.github.io/media/Metabo_HC260.jpg){:target = "_blank"}  |  [<img alt="image" height="80%" src="/media/Metabo_HC260_1.jpg" width="80%"/>](https://garlatti.github.io/media/Metabo_HC260_1.jpg){:target = "_blank"}  | 
+
+Tha planer thicknesser enhancement  
+
+|                                                                    Metabo HC 260                                                                     |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  [<img alt="image" height="80%" src="/media/Planer_Thicknesser_Enhancement.jpg" width="80%"/>](https://garlatti.github.io/media/Planer_Thicknesser_Enhancement.jpg){:target = "_blank"}   | 
+
