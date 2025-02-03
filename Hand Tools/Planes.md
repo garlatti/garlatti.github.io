@@ -7,7 +7,7 @@ nav_order: 2
 
 <p align="center"> <img src="../media/www_logo.png" width="20%" height="20%"/> </p>
 
-Set of Planes
+# Set of Planes
 
 
 |                                                         Block Plane                                                          |                                                           Smoothing Plane                                                            |

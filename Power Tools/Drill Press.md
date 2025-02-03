@@ -7,6 +7,7 @@ nav_order: 2
 
 <p align="center"> <img src="../media/www_logo.png" width="20%" height="20%"/> </p>
 
+#  Drill Press
 
 My first Drill press - an old one. This old drill press has too much play in the chuck. 
 Thus, it was very difficult to have precise hole center and size. 

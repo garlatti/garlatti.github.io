@@ -7,7 +7,7 @@ nav_order: 9
 
 <p align="center"> <img src="../media/www_logo.png" width="20%" height="20%"/> </p>
 
-Delta Sander
+# Delta Sander
 
 
 |                                                          Bosch PDA 180                                                           |

@@ -6,7 +6,7 @@ nav_order: 10
 ---
 <p align="center"> <img src="../media/www_logo.png" width="20%" height="20%"/> </p>
 
-# Wardrobe - ongoing project -
+# Wardrobe
 
 This wardrobe is inspired by the [Hoyez's Wardrobe](https://www.lairdubois.fr/creations/16546-meuble-penderie.html). The wardrobe has a drawer at the bottom and a shelve at the top. The two are joined by cleats, inserted nuts and bolts
 
