@@ -10,6 +10,6 @@ nav_order: 14
 # Air Compressor
 
 
-|                                                      Scheppach BTS900                                                      |
+|                                                      Big Pioneer 285M                                                      |
 |:--------------------------------------------------------------------------------------------------------------------------:|
 | [<img alt="image" height="25%" src="/media/Compressor.jpg" width="50%"/>](https://garlatti.github.io/media/Compressor.jpg) | 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Semi-Stationary Tools
+title: Roller Stands
 parent: Carpentry Workshop
 nav_order: 4
 ---
