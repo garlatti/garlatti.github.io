@@ -25,6 +25,6 @@ Finishing
 * linseed oil
 
 
-|                                                                                                                                Bedboards                                                                                                                                |
+|                                                                                                                   Thread & Bobbin Holder and spindles                                                                                                                   |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | [<img alt="image" height="45%" src="/media/Thread_Holder.jpg" width="45%"/>](https://garlatti.github.io/media/Thread_Holder.jpg)   [<img alt="image" height="45%" src="/media/Thread_Holder_1.jpg" width="45%"/>](https://garlatti.github.io/media/Thread_Holder_1.jpg) | 
