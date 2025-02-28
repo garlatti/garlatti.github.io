@@ -12,7 +12,8 @@ The Thread & Bobbin Holder may have up to 140 spindles according to the thread s
 The center distance of two spindles is 2.5 cm, the height of each spindle is 9 cm and its diameter is 5 mm. 
 
 Wood
-* Glued laminated beech
+* Tray: Glued laminated Beech
+* Spindles: Birch
 
 Tools
 * Table saw & Handle Saw
