@@ -10,7 +10,7 @@ nav_order: 2
 # Set of Planes
 
 
-|                                                         Block Plane                                                          |                                                           Smoothing Plane                                                            |
+|                                                         Block Plane                                                          |                                                Smoothing Plane Stanley Bailey G12-003                                                |
 |:----------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------:|
 | [<img alt="image" height="50%" src="/media/Block_Plane.jpg" width="50%"/>](https://garlatti.github.io/media/Block_Plane.jpg) | [<img alt="image" height="50%" src="/media/Smoothing_Plane.jpg" width="50%"/>](https://garlatti.github.io/media/Smoothing_Plane.jpg) |
 
