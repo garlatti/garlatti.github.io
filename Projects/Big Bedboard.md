@@ -12,8 +12,9 @@ Wood
 * Glued laminated beech
 
 Tools
-* Table saw, router, sanders
-
+* Table saw, 
+* Cordless router
+* sanders
 
 Joints
 * Rabbets and Full housing joint
