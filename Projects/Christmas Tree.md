@@ -27,6 +27,9 @@ Tools
 Joints
 * insert nuts, two butterfly nuts bolts and a threaded rod to join Circular tree base, teh tree branches and the five-pointed star
 
+Finishing
+* linseed oil
+
 
 |                                                                                                                            Christmas Tree                                                                                                                            |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|

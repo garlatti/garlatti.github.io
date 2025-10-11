@@ -27,6 +27,10 @@ Joints
 * Dowel for the drawer body and the top shelve 
 * Round head square collar bolts, nuts and washers to join drawer, shelve and cleats
 
+Finishing
+* linseed oil
+* Exotic varnish
+
 
 |                                                                 Wardrobe                                                                  |
 |:-----------------------------------------------------------------------------------------------------------------------------------------:|

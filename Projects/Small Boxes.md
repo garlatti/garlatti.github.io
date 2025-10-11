@@ -20,6 +20,9 @@ Tools
 Joint
 * Box Joint
 
+Finishing
+* colorless varnish
+
 |                                                                                                                           Small Boxes                                                                                                                           |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | [<img alt="image" height="45%" src="/media/Small Box_1.jpg" width="45%"/>](https://garlatti.github.io/media/Small%20Box_1.jpg)  [<img alt="image" height="45%" src="/media/Small Box_2.jpg" width="45%"/>](https://garlatti.github.io/media/Small%20Box_2.jpg)  |

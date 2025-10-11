@@ -22,6 +22,9 @@ Joints
 * Mortise & Tenon for the dresser structure
 * Rabbets for drawers and dresser sides & rear, Full housing joint
 
+Finishing
+* colorless varnish
+
 |                                                                                                                   Dresser parts                                                                                                                    |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  [<img alt="image" height="25%" src="/media/Dresser.jpg" width="25%"/>](https://garlatti.github.io/media/Dresser.jpg)   [<img alt="image" height="25%" src="/media/Dresser_2.jpg" width="25%"/>](https://garlatti.github.io/media/Dresser_2.jpg)   | 

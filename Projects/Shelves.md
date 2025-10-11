@@ -21,6 +21,9 @@ Joints
 * Rabbets, Full housing joint
 * French Cleat
 
+Finishing
+* colorless varnish
+
 |                                                                                                                     Shelves                                                                                                                      |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | [<img alt="image" height="35%" src="/media/Shelves.jpg" width="35%"/>](https://garlatti.github.io/media/Shelves.jpg)   [<img alt="image" height="35%" src="/media/Shelves_1.jpg" width="35%"/>](https://garlatti.github.io/media/Shelves_1.jpg)  | 

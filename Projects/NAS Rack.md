@@ -17,6 +17,9 @@ Tools
 Joint
 * Rabbets, Full housing joint
 
+Finishing
+* colorless varnish
+
 |                                                                                                                        NAS Rack                                                                                                                         |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | [<img alt="image" height="25%" src="/media/NAS Rack_1.jpg" width="25%"/>](https://garlatti.github.io/media/NAS%20Rack_1.jpg)  [<img alt="image" height="25%" src="/media/NAS Rack.jpg" width="25%"/>](https://garlatti.github.io/media/NAS%20Rack.jpg)  | 

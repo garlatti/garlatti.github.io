@@ -21,6 +21,9 @@ Joints
 * Half-blind dovetails for the drawer
 * Rabbets, Full housing joint
 
+Finishing
+* colorless varnish
+
 |                                                                                                                           Office Desk Parts                                                                                                                            |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  [<img alt="image" height="25%" src="/media/Office Desk.jpg" width="25%"/>](https://garlatti.github.io/media/Office%20Desk.jpg)   [<img alt="image" height="25%" src="/media/Office Desk_2.jpg" width="25%"/>](https://garlatti.github.io/media/Office%20Desk_2.jpg)   | 

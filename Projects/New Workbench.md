@@ -27,6 +27,9 @@ Tools
 Joints
 * Mortise and floating (or loose) tenon
 
+Finishing
+* linseed oil
+
 
 
 |                                                                                                                          Workbench                                                                                                                          |
