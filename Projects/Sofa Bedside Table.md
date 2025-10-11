@@ -9,17 +9,21 @@ nav_order: 15
 # Bedside and Sofa Table (ongoing)
 
 Wood
-* 
+* Pine
 
 Tools
-* T
-
+* Table saw
+* Handle Power Saw
+* Sanders
+* Cordless Router and bits
+* Cordless Drill Drivers
 
 Joints
-* 
+* Undercover Jig set for concealed screwed connection - Wolfcraft.  
+* screw-hole pine covers. 
 
 
-|                                                                                                                       Bedboards                                                                                                                        |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="35%" src="/media/sofatable.jpg" width="35%"/>](https://garlatti.github.io/media/sofatable.jpg)  [<img alt="image" height="25%" src="/media/sofatable_1.jpg" width="25%"/>](https://garlatti.github.io/media/sofatable_1.jpg) | 
-|                                                              [<img alt="image" height="25%" src="/media/sofatable_2.jpg" width="25%"/>](https://garlatti.github.io/media/sofatable_2.jpg)                                                              | 
+|                                                                                                                                           Bedside and Sofa Table                                                                                                                                           |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="35%" src="/media/Bedside_and_Sofa_Table.jpg" width="35%"/>](https://garlatti.github.io/media/Bedside_and_Sofa_Table.jpg)  [<img alt="image" height="35%" src="/media/Bedside_and_Sofa_Table_1.jpg" width="35%"/>](https://garlatti.github.io/media/Bedside_and_Sofa_Table_1.jpg) | 
+|                                                                           [<img alt="image" height="35%" src="/media/Bedside_and_Sofa_Table_2.jpg" width="35%"/>](https://garlatti.github.io/media/Bedside_and_Sofa_Table_2.jpg)                                                                           | 
