@@ -25,7 +25,7 @@ Finishing
 
 |                                                                                                                            Bedboards  Pieces                                                                                                                            |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="35%" src="/media/Bed_Panels_1.jpg" width="35%"/>](https://garlatti.github.io/media/Bed_Panels_1.jpg)   [<img alt="image" height="15%" src="/media/Bedboard_Shelves.jpg" width="15%"/>](https://garlatti.github.io/media/Bedboard_Shelves.jpg) | 
+| [<img alt="image" height="25%" src="/media/Bed_Panels_1.jpg" width="25%"/>](https://garlatti.github.io/media/Bed_Panels_1.jpg)   [<img alt="image" height="10%" src="/media/Bedboard_Shelves.jpg" width="10%"/>](https://garlatti.github.io/media/Bedboard_Shelves.jpg) | 
 |   
 
 |                                                                                                                                         Bedboards  Pieces                                                                                                                                         |
