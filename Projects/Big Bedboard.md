@@ -23,12 +23,24 @@ Finishing
 * "Libéron" colorless linseed oil
 
 
-|                                                                                                                        Bedboards  Pieces                                                                                                                        |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="35%" src="/media/BigBedboard.jpg" width="35%"/>](https://garlatti.github.io/media/BigBedboard.jpg)   [<img alt="image" height="25%" src="/media/BigBedboard_1.jpg" width="25%"/>](https://garlatti.github.io/media/BigBedboard_1.jpg) | 
+|                                                                                                                            Bedboards  Pieces                                                                                                                            |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="35%" src="/media/Bed_Panels_1.jpg" width="35%"/>](https://garlatti.github.io/media/Bed_Panels_1.jpg)   [<img alt="image" height="15%" src="/media/Bedboard_Shelves.jpg" width="15%"/>](https://garlatti.github.io/media/Bedboard_Shelves.jpg) | 
 |   
 
-|                                                                                                                            Bedboards                                                                                                                            |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="35%" src="/media/BigBedboard.jpg" width="35%"/>](https://garlatti.github.io/media/BigBedboard.jpg)   [<img alt="image" height="25%" src="/media/BigBedboard_1.jpg" width="25%"/>](https://garlatti.github.io/media/BigBedboard_1.jpg) | 
-|                                                                [<img alt="image" height="25%" src="/media/BigBedboard_2.jpg" width="25%"/>](https://garlatti.github.io/media/BigBedboard_2.jpg)                                                                 | 
+|                                                                                                                                         Bedboards  Pieces                                                                                                                                         |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="10%" src="/media/Bedboard_Trunk_Door.jpg" width="10%"/>](https://garlatti.github.io/media/Bedboard_Trunk_Door.jpg)   [<img alt="image" height="25%" src="/media/Bedboard_Small_Shelves.jpg" width="25%"/>](https://garlatti.github.io/media/Bedboard_Small_Shelves.jpg) |
+
+
+|                                                                                                                             Bedboards  Pieces  & Bedboard                                                                                                                             |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="10%" src="/media/Bedboard_Shelve_Support.jpg" width="10%"/>](https://garlatti.github.io/media/Bedboard_Shelve_Support.jpg)   [<img alt="image" height="35%" src="/media/Big_Bedboard.jpg" width="35%"/>](https://garlatti.github.io/media/Big_Bedboard.jpg) |
+
+|
+
+|                                                                                                                                Bedboards                                                                                                                                |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="10%" src="/media/Big_Bedboard_1.jpg" width="10%"/>](https://garlatti.github.io/media/Big_Bedboard_1.jpg)   [<img alt="image" height="35%" src="/media/Big_Bedboard_2.jpg" width="35%"/>](https://garlatti.github.io/media/Big_Bedboard_2.jpg) |
+                                                                                          
+                                                     | 
