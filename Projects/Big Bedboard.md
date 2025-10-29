@@ -35,9 +35,9 @@ Finishing
 
 |                                                                                                                                Bedboard                                                                                                                                 |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="35%" src="/media/Big_Bedboard_1.jpg" width="35%"/>](https://garlatti.github.io/media/Big_Bedboard_1.jpg)   [<img alt="image" height="35%" src="/media/Big_Bedboard_2.jpg" width="35%"/>](https://garlatti.github.io/media/Big_Bedboard_2.jpg) |
+| [<img alt="image" height="25%" src="/media/Big_Bedboard_1.jpg" width="25%"/>](https://garlatti.github.io/media/Big_Bedboard_1.jpg)   [<img alt="image" height="45%" src="/media/Big_Bedboard_2.jpg" width="45%"/>](https://garlatti.github.io/media/Big_Bedboard_2.jpg) |
                                                                                           
 
-|                                                                                                                           Bedboard                                                                                                                             |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="35%" src="/media/Big_Bedboard.jpg" width="35%"/>](https://garlatti.github.io/media/Big_Bedboard.jpg) |
+|                                                            Bedboard                                                            |
+|:------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="45%" src="/media/Big_Bedboard.jpg" width="45%"/>](https://garlatti.github.io/media/Big_Bedboard.jpg) |
