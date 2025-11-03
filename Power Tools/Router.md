@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Router
+title: Routers
 parent: Power Tools
 nav_order: 4
 ---
