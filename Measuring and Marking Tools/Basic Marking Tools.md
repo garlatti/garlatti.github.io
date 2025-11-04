@@ -18,7 +18,7 @@ combination square, sliding bevels, dovetail markers, marking gauges and differe
 
 
 
-|                                                 Japanese marking knife    |        V-Point marking knives : Luban_marking_knives                                                                                               |
+|                                                 Japanese marking knife    |        V-Point marking knives : Luban marking knives                                                                                               |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="35%" src="/media/Japanese Marker Knive.jpg" width="35%"/>](https://garlatti.github.io/media/BJapanese Marker Knive.jpg)  |  [<img alt="image" height="25%" src="/media/Luban_marking_knives.jpg" width="25%"/>](https://garlatti.github.io/media/Luban_marking_knives.jpg) | 
+| [<img alt="image" height="35%" src="/media/Japanese_Marker_Knive.jpg" width="35%"/>](https://garlatti.github.io/media/Japanese_Marker_Knive.jpg)  |  [<img alt="image" height="25%" src="/media/Luban_marking_knives.jpg" width="25%"/>](https://garlatti.github.io/media/Luban_marking_knives.jpg) | 
                                                             | 
