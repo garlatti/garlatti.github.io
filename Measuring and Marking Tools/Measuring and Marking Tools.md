@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Wood Markings Tools
-nav_order: 6
+title: Measuring and Marking Tools
+nav_order: 7
 has_children: true
 ---
 
@@ -12,5 +12,5 @@ has_children: true
 </p>
 
 
-# Wood Markings Tools
+# Measuring and Marking Tools
 The wood marking tools are composed of tracing materials, squares, marking gauges, measurements, metrology and compasses.
