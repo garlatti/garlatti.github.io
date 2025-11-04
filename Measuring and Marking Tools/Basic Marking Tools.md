@@ -33,3 +33,17 @@ combination square, sliding bevels, dovetail markers, marking gauges and differe
 |                                                                  Precision Square                                                                  |          Marking Square                                                                                                                             |  Mini Square (for dovetails)   |
 |:------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------:|:-----------------------------------------------------------------------------:|
 |      [<img alt="image" height="55%" src="/media/Precision_Square.jpg" width="55%"/>](https://garlatti.github.io/media/Precision_Square.jpg) | [<img alt="image" height="55%" src="/media/Marker_Square.jpg" width="55%"/>](https://garlatti.github.io/media/Marker_Square.jpg) |  [<img alt="image" height="55%" src="/media/75mm_length_Square.jpg" width="55%"/>](https://garlatti.github.io/media/75mm_length_Square.jpg) |
+
+## Sliding Bevel
+
+
+|                                                              Sliding Bevel                                                               
+|:----------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="55%" src="/media/Sliding_Bevel.jpg" width="55%"/>](https://garlatti.github.io/media/Sliding_Bevel.jpg) |  
+
+## Gauge and Markers
+
+
+|                                                                Micrometric Marking Gauge                                                                 |                                                                Dovetail Markers                                                                |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="55%" src="/media/Micrometric_marking_gauge.jpg" width="55%"/>](https://garlatti.github.io/media/Micrometric_marking_gauge.jpg) | [<img alt="image" height="45%" src="/media/Dovetail_Saddle_Marker.jpg" width="45%"/>](https://garlatti.github.io/media/Dovetail_Saddle_Marker.jpg) |  
