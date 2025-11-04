@@ -16,7 +16,7 @@ nav_order: 1
 The basic measuring tools are composed of small and large dividers, caliper, rulers and retractable tape measure.
 
 
-|                                                                                                                      Bedboards                                                                                                                       |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="35%" src="/media/Bedboard.jpg" width="35%"/>](https://garlatti.github.io/media/Bedboard.jpg)   [<img alt="image" height="25%" src="/media/Bedboard_1.jpg" width="25%"/>](https://garlatti.github.io/media/Bedboard_1.jpg)  | 
-|                                                              [<img alt="image" height="25%" src="/media/Bedboard_2.jpg" width="25%"/>](https://garlatti.github.io/media/Bedboard_2.jpg)                                                              | 
+|                                                       Caliper                                                        |                                                             Drypoint Divider                                                             |                                                       Indoor Divider                                                        |
+|:--------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="35%" src="/media/Caliper.jpg" width="35%"/>](https://garlatti.github.io/media/Caliper.jpg) |   [<img alt="image" height="25%" src="/media/Drypoint_Compass.jpg" width="25%"/>](https://garlatti.github.io/media/Drypoint_Compass.jpg) |  [<img alt="image" height="25%" src="/media/Indoor_Compass.jpg" width="25%"/>](https://garlatti.github.io/media/Indoor_Compass.jpg) |
+
