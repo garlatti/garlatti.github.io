@@ -37,9 +37,9 @@ combination square, sliding bevels, dovetail markers, marking gauges and differe
 ## Sliding Bevel
 
 
-|                                                              Sliding Bevel                                                               
-|:----------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="55%" src="/media/Sliding_Bevel.jpg" width="55%"/>](https://garlatti.github.io/media/Sliding_Bevel.jpg) |  
+|                                                          Sliding Bevel                                                           
+|:--------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="25%" src="/media/Sliding_Bevel.jpg" width="25%"/>](https://garlatti.github.io/media/Sliding_Bevel.jpg) |  
 
 ## Gauge and Markers
 
