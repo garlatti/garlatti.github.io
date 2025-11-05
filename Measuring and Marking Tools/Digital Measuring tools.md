@@ -16,11 +16,11 @@ nav_order: 3
 The basic measuring tools are composed digital caliper, rulers and retractable tape measure.
 
 
-|                                                                                                                          Digital Caliper                                                          |                        Digital Angle Measurer |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------:|
-| [<img alt="image" height="35%" src="/media/Digital_Caliper.jpg" width="35%"/>](https://garlatti.github.io/media/Digital_Caliper.jpg)   [<img alt="image" height="25%" src="/media/Digital_Bevel_Square.jpg" width="25%"/>](https://garlatti.github.io/media/Digital_Bevel_Square.jpg) | 
+|                                                                  Digital Caliper                |                                  Digital Angle Measurer                              |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|
+| [<img alt="image" height="35%" src="/media/Digital_Caliper.jpg" width="35%"/>](https://garlatti.github.io/media/Digital_Caliper.jpg) |   [<img alt="image" height="25%" src="/media/Digital_Bevel_Square.jpg" width="25%"/>](https://garlatti.github.io/media/Digital_Bevel_Square.jpg) | 
 
 
-|                                                                                                                  Level Box                                                                                                                  |    Wood Moisture Detector           |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------:|
-| [<img alt="image" height="25%" src="/media/Level_Box.jpg" width="35%"/>](https://garlatti.github.io/media/Level_Box.jpg)    [<img alt="image" height="25%" src="/media/Wood_Moisture_Detector.jpg" width="35%"/>](https://garlatti.github.io/media/Wood_Moisture_Detector.jpg) | 
+|                                                        Level Box                                                         |                                                               Wood Moisture Detector                                                               |
+|:------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="35%" src="/media/Level_Box.jpg" width="35%"/>](https://garlatti.github.io/media/Level_Box.jpg) | [<img alt="image" height="25%" src="/media/Wood_Moisture_Detector.jpg" width="25%"/>](https://garlatti.github.io/media/Wood_Moisture_Detector.jpg) | 
