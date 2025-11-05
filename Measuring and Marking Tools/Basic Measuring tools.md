@@ -17,18 +17,18 @@ The basic measuring tools are composed of small and large compasses, caliper, mi
 
 
 
-|                                                            Rulers                                                            |                                                     Retractable Tape measurer                                                      |
-|:----------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="25%" src="/media/Rulers.jpg" width="25%"/>](https://garlatti.github.io/media/Rulers.jpg) | [<img alt="image" height="25%" src="/media/Retractable_Taped_Measure.jpg" width="25%"/>](https://garlatti.github.io/media/Retractable_Taped_Measure.jpg) |
+|                                                       Rulers                                                       |                                                                Retractable Tape measurer                                                                 |
+|:------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="45%" src="/media/Rulers.jpg" width="45%"/>](https://garlatti.github.io/media/Rulers.jpg) | [<img alt="image" height="35%" src="/media/Retractable_Taped_Measure.jpg" width="35%"/>](https://garlatti.github.io/media/Retractable_Taped_Measure.jpg) |
 
 
 
-|                                                            Drypoint Compass                               |                                 Indoor Compass                                                           |
-|:--------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------:|
-|  [<img alt="image" height="25%" src="/media/Drypoint_Compass.jpg" width="25%"/>](https://garlatti.github.io/media/Drypoint_Compass.jpg) | [<img alt="image" height="25%" src="/media/Indoor_Compass.jpg" width="25%"/>](https://garlatti.github.io/media/Indoor_Compass.jpg) |
+|                                                            Drypoint Compass                                                            |                                                           Indoor Compass                                                           |
+|:--------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="35%" src="/media/Drypoint_Compass.jpg" width="35%"/>](https://garlatti.github.io/media/Drypoint_Compass.jpg) | [<img alt="image" height="45%" src="/media/Indoor_Compass.jpg" width="45%"/>](https://garlatti.github.io/media/Indoor_Compass.jpg) |
 
 
 
-|                                                       Caliper                                                        |                                                            Micrometer                                                            |
-|:--------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="35%" src="/media/Caliper.jpg" width="35%"/>](https://garlatti.github.io/media/Caliper.jpg) | [<img alt="image" height="25%" src="/media/Micrometer.jpg" width="25%"/>](https://garlatti.github.io/media/Micrometer.jpg) |
+|                                                       Caliper                                                        |                                                         Micrometer                                                         |
+|:--------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="45%" src="/media/Caliper.jpg" width="45%"/>](https://garlatti.github.io/media/Caliper.jpg) | [<img alt="image" height="45%" src="/media/Micrometer.jpg" width="45%"/>](https://garlatti.github.io/media/Micrometer.jpg) |
