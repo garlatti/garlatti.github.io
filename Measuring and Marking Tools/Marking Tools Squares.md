@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Basic Marking Tools
+title: Marking Tools Squares
 parent: Measuring and Marking Tools
 nav_order: 4
 ---
@@ -26,7 +26,7 @@ combination square, sliding bevels, dovetail markers, marking gauges and differe
 |      [<img alt="image" height="55%" src="/media/Precision_Square.jpg" width="55%"/>](https://garlatti.github.io/media/Precision_Square.jpg) | [<img alt="image" height="55%" src="/media/Marker_Square.jpg" width="55%"/>](https://garlatti.github.io/media/Marker_Square.jpg) |  [<img alt="image" height="55%" src="/media/75mm_length_Square.jpg" width="55%"/>](https://garlatti.github.io/media/75mm_length_Square.jpg) |
 
 
-|                                                          Sliding Bevel               |                                                        Combination Square                                                        |
-|:------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="25%" src="/media/Sliding_Bevel.jpg" width="25%"/>](https://garlatti.github.io/media/Sliding_Bevel.jpg) | [<img alt="image" height="25%" src="/media/Combination_Square.jpg" width="25%"/>](https://garlatti.github.io/media/Combination_Square.jpg) |  
+|                                                          Sliding Bevel               |                                                             Combination Square                                                             |
+|:------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="25%" src="/media/Sliding_Bevel.jpg" width="25%"/>](https://garlatti.github.io/media/Sliding_Bevel.jpg) | [<img alt="image" height="45%" src="/media/Combination_Square.jpg" width="45%"/>](https://garlatti.github.io/media/Combination_Square.jpg) |  
 
