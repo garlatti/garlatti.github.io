@@ -2,7 +2,7 @@
 layout: default
 title: Delta Sander
 parent: Power Tools
-nav_order: 9
+nav_order: 10
 ---
 
 <p align="center"> <img src="../media/www_logo.png" width="20%" height="20%"/> </p>

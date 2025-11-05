@@ -2,7 +2,7 @@
 layout: default
 title: Jigsaw
 parent: Power Tools
-nav_order: 5
+nav_order: 8
 ---
 <p align="center"> <img src="../media/www_logo.png" width="20%" height="20%"/> </p>
 

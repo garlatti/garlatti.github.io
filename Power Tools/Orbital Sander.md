@@ -2,7 +2,7 @@
 layout: default
 title: Orbital Sander
 parent: Power Tools
-nav_order: 8
+nav_order: 9
 ---
 
 <p align="center"> <img src="../media/www_logo.png" width="20%" height="20%"/> </p>
