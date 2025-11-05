@@ -19,9 +19,9 @@ Three different types of jigs have been designed
   * The cut made with a table saw sled is always perfectly square.
  
 
-|                                                                                                                                  Cross Cut Sled                                                                                        |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="25%" src="/media/Cross Cut Sled.jpg" width="25%"/>](https://garlatti.github.io/media/Cross%20Cut%20Sled.jpg) [<img alt="image" height="25%" src="/media/Cross Cut Sled_1.jpg" width="35%"/>](https://garlatti.github.io/media/Cross%20Cut%20Sled_1.jpg) |
+|                                                                                                                                   Cross Cut Sled                                                                                                                                   |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="25%" src="/media/Cross Cut Sled.jpg" width="25%"/>](https://garlatti.github.io/media/Cross%20Cut%20Sled.jpg)  [<img alt="image" height="25%" src="/media/Cross Cut Sled_1.jpg" width="35%"/>](https://garlatti.github.io/media/Cross%20Cut%20Sled_1.jpg) |
  
 * A "Vertical" Jig 
   * Such type of jig is very convenient to make open slot mortise, bridle joint, castle joint - shown on the figures, etc. 
