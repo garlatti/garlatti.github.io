@@ -2,7 +2,7 @@
 layout: default
 title: Digital Measuring Tools
 parent: Measuring and Marking Tools
-nav_order: 3
+nav_order: 2
 ---
 
 <p align="center">
@@ -13,12 +13,12 @@ nav_order: 3
 
 
 # Digital Measuring Tools
-The basic measuring tools are composed digital caliper, rulers and retractable tape measure.
+The basic measuring tools are composed of digital caliper, Digital Angle measurer, Level Box and Wood moisture detector.
 
 
-|                                                                  Digital Caliper                |                                  Digital Angle Measurer                              |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|
-| [<img alt="image" height="35%" src="/media/Digital_Caliper.jpg" width="35%"/>](https://garlatti.github.io/media/Digital_Caliper.jpg) |   [<img alt="image" height="25%" src="/media/Digital_Bevel_Square.jpg" width="25%"/>](https://garlatti.github.io/media/Digital_Bevel_Square.jpg) | 
+|                                                   Digital Caliper                                                                    |                                              Digital Angle Measurer                                                                            |
+|:------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="35%" src="/media/Digital_Caliper.jpg" width="35%"/>](https://garlatti.github.io/media/Digital_Caliper.jpg) | [<img alt="image" height="25%" src="/media/Digital_Bevel_Square.jpg" width="25%"/>](https://garlatti.github.io/media/Digital_Bevel_Square.jpg) | 
 
 
 |                                                        Level Box                                                         |                                                               Wood Moisture Detector                                                               |

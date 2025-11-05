@@ -2,7 +2,7 @@
 layout: default
 title: Basic Marking Tools
 parent: Measuring and Marking Tools
-nav_order: 2
+nav_order: 3
 ---
 
 <p align="center">
@@ -22,20 +22,11 @@ combination square, sliding bevels, dovetail markers, marking gauges and differe
 | [<img alt="image" height="55%" src="/media/Japanese_Marker_Knive.jpg" width="55%"/>](https://garlatti.github.io/media/Japanese_Marker_Knive.jpg) | [<img alt="image" height="45%" src="/media/Luban_marking_knives.jpg" width="45%"/>](https://garlatti.github.io/media/Luban_marking_knives.jpg) |  
 
 
-|:--------------------------------------------------------------------------------------------------------------------------------------------------:|
-|                                                                       Square                                                                    |          Framing Square                                                                                      |                                         Framing Square                                                                     |
-| :------------------------------------------------------------------------------------------------------------------------------------------------: |:-----------------------------------------------------------------:|:-----------------------------------------------------------------------------:|
-|                [<img alt="image" height="55%" src="/media/Square.jpg" width="55%"/>](https://garlatti.github.io/media/Square.jpg) :|: [<img alt="image" height="55%" src="/media/Framing_Square.jpg" width="55%"/>](https://garlatti.github.io/media/Framing_Square.jpg) |  [<img alt="image" height="55%" src="/media/Framing_Square_2.jpg" width="55%"/>](https://garlatti.github.io/media/Framing_Square_2.jpg) |
-|                                                                  Precision Square                                                                  |          Marking Square                                                                                                                             |  Mini Square (for dovetails)   |
-|:------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------:|:-----------------------------------------------------------------------------:|
-|      [<img alt="image" height="55%" src="/media/Precision_Square.jpg" width="55%"/>](https://garlatti.github.io/media/Precision_Square.jpg) | [<img alt="image" height="55%" src="/media/Marker_Square.jpg" width="55%"/>](https://garlatti.github.io/media/Marker_Square.jpg) |  [<img alt="image" height="55%" src="/media/75mm_length_Square.jpg" width="55%"/>](https://garlatti.github.io/media/75mm_length_Square.jpg) |
-
-
-|                                                          Sliding Bevel                                                           
-|:--------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="25%" src="/media/Sliding_Bevel.jpg" width="25%"/>](https://garlatti.github.io/media/Sliding_Bevel.jpg) |  
-
-
 |                                                                Micrometric Marking Gauge                                                                 |                                                                Dovetail Markers                                                                |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|
 | [<img alt="image" height="55%" src="/media/Micrometric_marking_gauge.jpg" width="55%"/>](https://garlatti.github.io/media/Micrometric_marking_gauge.jpg) | [<img alt="image" height="45%" src="/media/Dovetail_Saddle_Marker.jpg" width="45%"/>](https://garlatti.github.io/media/Dovetail_Saddle_Marker.jpg) |  
+
+
+|                                   Pica Graphite Pencil                           |                                                                Pica Graphite Pencil                                                                |                                                          Pica Marker                                                          |
+|:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="55%" src="/media/Pica_Graphite_Pencil.jpg" width="55%"/>](https://garlatti.github.io/media/Pica_Graphite_Pencil.jpg) | [<img alt="image" height="45%" src="/media/Pica_Graphite_Pencil_1.jpg" width="45%"/>](https://garlatti.github.io/media/Pica_Graphite_Pencil_1.jpg) | [<img alt="image" height="45%" src="/media/Pica_Marker.jpg" width="45%"/>](https://garlatti.github.io/media/Pica_Marker.jpg)  |
