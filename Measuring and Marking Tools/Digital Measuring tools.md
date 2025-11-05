@@ -27,6 +27,6 @@ The basic measuring tools are composed of digital caliper, digital angle measure
 
 
 
-|                                                              Digital Height Gauge                                                                                         |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="35%" src="/media/Digital_Height_Gauge.jpg" width="35%"/>](https://garlatti.github.io/media/Digital_Height_Gauge.jpg)  | 
+|                                                              Digital Height Gauge                                                              |
+|:----------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="25%" src="/media/Digital_Height_Gauge.jpg" width="25%"/>](https://garlatti.github.io/media/Digital_Height_Gauge.jpg) | 

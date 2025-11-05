@@ -32,9 +32,9 @@ Finishing
 * Exotic varnish
 
 
-|                                                                 Wardrobe                                                                  |
-|:-----------------------------------------------------------------------------------------------------------------------------------------:|
-|          [<img alt="image" height="45%" src="/media/wardrobe_1.jpg" width="45%"/>](https://garlatti.github.io/media/wardrobe_1.jpg)         [<img alt="image" height="45%" src="/media/wardrobe_3.jpg" width="45%"/>](https://garlatti.github.io/media/wardrobe_3.jpg)     | 
+|                                                                                                                           Wardrobe                                                                                                                            |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="35%" src="/media/wardrobe_1.jpg" width="35%"/>](https://garlatti.github.io/media/wardrobe_1.jpg)         [<img alt="image" height="35%" src="/media/wardrobe_3.jpg" width="35%"/>](https://garlatti.github.io/media/wardrobe_3.jpg) | 
 |      
 
 
