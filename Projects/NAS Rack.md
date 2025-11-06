@@ -20,7 +20,7 @@ Joint
 Finishing
 * colorless varnish
 
-|                                                                                                                        Empty NAS Rack      |                                                           Nas rack in use                                                |
-|:--------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="25%" src="/media/NAS Rack_1.jpg" width="25%"/>](https://garlatti.github.io/media/NAS%20Rack_1.jpg) | [<img alt="image" height="25%" src="/media/NAS Rack.jpg" width="25%"/>](https://garlatti.github.io/media/NAS%20Rack.jpg) | 
+|                                                        Empty NAS Rack                                                        |                                                     Nas rack in use                                                      |
+|:----------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="35%" src="/media/NAS Rack_1.jpg" width="35%"/>](https://garlatti.github.io/media/NAS%20Rack_1.jpg) | [<img alt="image" height="35%" src="/media/NAS Rack.jpg" width="35%"/>](https://garlatti.github.io/media/NAS%20Rack.jpg) | 
 
