@@ -31,9 +31,9 @@ Finishing
 * linseed oil
 
 
-|                                                                                                                            Christmas Tree                                                                                                                            |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="30%" src="/media/Christmas_Tree.jpg" width="30%"/>](https://garlatti.github.io/media/Christmas_Tree.jpg)  [<img alt="image" height="30%" src="/media/sapin_decore.jpg" width="30%"/>](https://garlatti.github.io/media/sapin_decore.jpg) | 
+|                                                Christmas Tree                       |                                                    Decorated Christmas Tree                                                    |
+|:-----------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="30%" src="/media/Christmas_Tree.jpg" width="30%"/>](https://garlatti.github.io/media/Christmas_Tree.jpg) | [<img alt="image" height="30%" src="/media/sapin_decore.jpg" width="30%"/>](https://garlatti.github.io/media/sapin_decore.jpg) | 
 |      
 
 

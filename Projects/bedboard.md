@@ -21,7 +21,8 @@ Joints
 Finishing
 * colorless varnish
 
-|                                                                                                                      Bedboards                                                                                                                       |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="35%" src="/media/Bedboard.jpg" width="35%"/>](https://garlatti.github.io/media/Bedboard.jpg)   [<img alt="image" height="25%" src="/media/Bedboard_1.jpg" width="25%"/>](https://garlatti.github.io/media/Bedboard_1.jpg)  | 
+
+|                                                                                                              |                                                          Bedboards                                                          |                                                                                                                |
+|:-------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="35%" src="/media/Bedboard.jpg" width="35%"/>](https://garlatti.github.io/media/Bedboard.jpg)  |  [<img alt="image" height="25%" src="/media/Bedboard_1.jpg" width="25%"/>](https://garlatti.github.io/media/Bedboard_1.jpg) | 
 |                                                              [<img alt="image" height="25%" src="/media/Bedboard_2.jpg" width="25%"/>](https://garlatti.github.io/media/Bedboard_2.jpg)                                                              | 

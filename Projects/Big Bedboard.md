@@ -33,9 +33,9 @@ Finishing
 | [<img alt="image" height="10%" src="/media/Bedboard_Trunk_Door.jpg" width="10%"/>](https://garlatti.github.io/media/Bedboard_Trunk_Door.jpg)   [<img alt="image" height="25%" src="/media/Bedboard_Small_Shelves.jpg" width="25%"/>](https://garlatti.github.io/media/Bedboard_Small_Shelves.jpg)  [<img alt="image" height="10%" src="/media/Bedboard_Shelve_Support.jpg" width="10%"/>](https://garlatti.github.io/media/Bedboard_Shelve_Support.jpg)   |
 
 
-|                                                                                                                                Bedboard                                                                                                                                 |
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="25%" src="/media/Big_Bedboard_1.jpg" width="25%"/>](https://garlatti.github.io/media/Big_Bedboard_1.jpg)   [<img alt="image" height="45%" src="/media/Big_Bedboard_2.jpg" width="45%"/>](https://garlatti.github.io/media/Big_Bedboard_2.jpg) |
+|                                                      Bedboard                                                                      |                                                   Bedboard                                                                         |
+|:----------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="25%" src="/media/Big_Bedboard_1.jpg" width="25%"/>](https://garlatti.github.io/media/Big_Bedboard_1.jpg) | [<img alt="image" height="45%" src="/media/Big_Bedboard_2.jpg" width="45%"/>](https://garlatti.github.io/media/Big_Bedboard_2.jpg) |
                                                                                           
 
 |                                                            Bedboard                                                            |

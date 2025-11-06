@@ -34,7 +34,7 @@ Finishing
 
 |                                                                                                                           Wardrobe                                                                                                                            |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="35%" src="/media/wardrobe_1.jpg" width="35%"/>](https://garlatti.github.io/media/wardrobe_1.jpg)         [<img alt="image" height="35%" src="/media/wardrobe_3.jpg" width="35%"/>](https://garlatti.github.io/media/wardrobe_3.jpg) | 
+| [<img alt="image" height="25%" src="/media/wardrobe_1.jpg" width="25%"/>](https://garlatti.github.io/media/wardrobe_1.jpg)         [<img alt="image" height="28%" src="/media/wardrobe_3.jpg" width="28%"/>](https://garlatti.github.io/media/wardrobe_3.jpg) | 
 |      
 
 

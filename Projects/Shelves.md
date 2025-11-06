@@ -24,6 +24,6 @@ Joints
 Finishing
 * colorless varnish
 
-|                                                                                                                     Shelves                                                                                                                      |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="35%" src="/media/Shelves.jpg" width="35%"/>](https://garlatti.github.io/media/Shelves.jpg)   [<img alt="image" height="35%" src="/media/Shelves_1.jpg" width="35%"/>](https://garlatti.github.io/media/Shelves_1.jpg)  | 
+|                                                                                                                     Shelves                                                                                                                     |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="25%" src="/media/Shelves.jpg" width="25%"/>](https://garlatti.github.io/media/Shelves.jpg)   [<img alt="image" height="25%" src="/media/Shelves_1.jpg" width="25%"/>](https://garlatti.github.io/media/Shelves_1.jpg) | 
