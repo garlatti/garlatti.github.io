@@ -18,6 +18,6 @@ My first woodworking machine : a Router Bosch POF 1400 ACE.
 
 My second router : the Cordless Makita DRT 52 Z
 
-|                                                           Makita DRT 52 Z                                                            |
-|:------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="55%" src="/media/Cordless_Router.jpg" width="55%"/>](https://garlatti.github.io/media/Cordless_Router.jpg) | 
+|                                                           Makita DRT 52 Z    |                                                                Plunge base                                                                 |
+|:--------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="55%" src="/media/Cordless_Router.jpg" width="55%"/>](https://garlatti.github.io/media/Cordless_Router.jpg) | [<img alt="image" height="55%" src="/media/Plunge_Base_DRT_50.jpg" width="55%"/>](https://garlatti.github.io/media/Plunge_Base_DRT_50.jpg) |
