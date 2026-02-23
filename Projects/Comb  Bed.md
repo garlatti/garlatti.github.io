@@ -32,9 +32,9 @@ Finishing
 * Colorless varnish
 
 
-|                                                    Comb Bed Project                                                    |
-|:----------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="45%" src="/media/Comb_Bed.jpg" width="45%"/>](https://garlatti.github.io/media/Comb_Bed.jpg) |
+|                                                                                                                   Comb Bed Project                                                                                                                    |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="45%" src="/media/Comb_Bed_5.jpg" width="45%"/>](https://garlatti.github.io/media/Comb_Bed_5.jpg) [<img alt="image" height="45%" src="/media/Comb_Bed_3.jpg" width="45%"/>](https://garlatti.github.io/media/Comb_Bed_3.jpg) |
 
 
 |                                                                                                                 Headboard and footboard parts                                                                                                                 |
