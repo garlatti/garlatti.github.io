@@ -32,10 +32,6 @@ Finishing
 * Colorless varnish
 
 
-|                                                                                                                   Comb Bed Project                                                                                                                    |
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="45%" src="/media/Comb_Bed_5.jpg" width="45%"/>](https://garlatti.github.io/media/Comb_Bed_5.jpg) [<img alt="image" height="45%" src="/media/Comb_Bed_3.jpg" width="45%"/>](https://garlatti.github.io/media/Comb_Bed_3.jpg) |
-
 
 |                                                                                                                 Headboard and footboard parts                                                                                                                 |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -43,11 +39,12 @@ Finishing
      
 
 
-|                                         headboard nad footboard with legs                                          |
-|:------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="45%" src="/media/Boards.jpg" width="45%"/>](https://garlatti.github.io/media/Boards.jpg) |  
+|                                         headboard nad footboard with legs          |              Comb beds without wooden slat                      |
+|:-------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="45%" src="/media/Boards.jpg" width="45%"/>](https://garlatti.github.io/media/Boards.jpg) |  [<img alt="image" height="45%" src="/media/Comb_Bed_2.jpg" width="45%"/>](https://garlatti.github.io/media/Comb_Bed_2.jpg) |  
 
 
-|                                             Comb beds without wooden slat                                              |
-|:----------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="45%" src="/media/Comb_Bed_2.jpg" width="45%"/>](https://garlatti.github.io/media/Comb_Bed_2.jpg) |  
+|                                                                                                                       Comb Bed                                                                                                                        |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img alt="image" height="45%" src="/media/Comb_Bed_5.jpg" width="45%"/>](https://garlatti.github.io/media/Comb_Bed_5.jpg) [<img alt="image" height="35%" src="/media/Comb_Bed_3.jpg" width="35%"/>](https://garlatti.github.io/media/Comb_Bed_3.jpg) |
+ 
