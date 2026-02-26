@@ -28,7 +28,7 @@ Tha planer thicknesser enhancement
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | [<img alt="image" height="35%" src="/media/Planer_Thicknesser_Enhancement.jpg" width="35%"/>](https://garlatti.github.io/media/Planer_Thicknesser_Enhancement.jpg){:target = "_blank"} | 
 
-Upgrade of the planner thichnesser with a Wixey Remote Planer Readout WR 550
+Upgrade of the planer thichnesser with a Wixey Remote Planer Readout WR 550
 
 
 |                                                                                                               Wixey  WR 550 : the scale and the sensor                                                                                                                |
