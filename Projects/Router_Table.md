@@ -44,5 +44,5 @@ Finishing
 
 |                                         Router Table Insert Plate and  parallel Guide                                          |                                                           Parallel Guide                                                           |
 |:------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|
-| [<img alt="image" height="45%" src="/media/Router_Plate_Guide.jpg" width="45%"/>](https://garlatti.github.io/media/Router_Plate_Guide.jpg) | [<img alt="image" height="45%" src="/media/Router_Table_1.jpg" width="45%"/>](https://garlatti.github.io/media/Router_Table_1.jpg) |  
+| [<img alt="image" height="55%" src="/media/Router_Plate_Guide.jpg" width="55%"/>](https://garlatti.github.io/media/Router_Plate_Guide.jpg) | [<img alt="image" height="55%" src="/media/Router_Table_1.jpg" width="55%"/>](https://garlatti.github.io/media/Router_Table_1.jpg) |  
 
